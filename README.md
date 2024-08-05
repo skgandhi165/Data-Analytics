@@ -4,4 +4,10 @@ I am Srushti Gandhi, an aspiring data analyst, with hands-on experience as a Bus
 I am committed to continually learning and expanding my skills in data analytics. My enthusiasm for the field drives me to stay updated with new tools and techniques. Whether working solo or as part of a team, I am excited to contribute to the success of every project, bringing creativity and dedication to every challenge. I look forward to leveraging my skills to drive impactful results and support innovative solutions.<br/><br/>
 In this portfolio, I've curated a selection of projects that highlight my technical and analytical skills. Inside, you'll find a diverse array of documents, workbooks and dashboards created with tools such as SQL, Tableau, Excel, Jupyter Notebook and Power BI. These projects showcase my ability to organize, analyze, and present data in a clear, visually compelling manner, ensuring that complex information is easily understandable and actionable for informed decision-making. Explore my work to see how my skills can help translate data into strategic insights.<br/><br>
 <h2>Table Of Content</h2>
--[About](https://github.com/skgandhi165/Data-Analytics/tree/main?tab=readme-ov-file#readme)
+- About
+- Projects
+  - Python
+   - one
+   - two
+  - Power BI
+    
