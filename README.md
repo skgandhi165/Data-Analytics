@@ -5,7 +5,7 @@ I am committed to continually learning and expanding my skills in data analytics
 In this portfolio, I've curated a selection of projects that highlight my technical and analytical skills. Inside, you'll find a diverse array of documents, workbooks and dashboards created with tools such as SQL, Tableau, Excel, Jupyter Notebook and Power BI. These projects showcase my ability to organize, analyze, and present data in a clear, visually compelling manner, ensuring that complex information is easily understandable and actionable for informed decision-making. Explore my work to see how my skills can help translate data into strategic insights.<br/><br/>
 <h2>Table Of Content</h2><br/>
 <ul>
-  <li> <h3>About</h3></li>
+  <li> <h3><a href=https://github.com/skgandhi165/Data-Analytics/blob/main/README.md#data-analyst-portfolio>About</a></h3></li>
   <li><h3> Projects</h3></li>
   <ul>
     <li><b>Power BI</b>
