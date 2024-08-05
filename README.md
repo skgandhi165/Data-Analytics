@@ -20,9 +20,9 @@ In this portfolio, I've curated a selection of projects that highlight my techni
   <ul>
     <li><b>Tableau</b>
       <ul>
-        <li>Amazon Prime Video Analysis</li>
-        <li>Electric Vehicle Analysis</li>
-        <li>HR Attrition Analysis</li><br/>
+        <li><a href=https://public.tableau.com/app/profile/srushti.gandhi/viz/PrimeVideoAnalysis_17228805401230/PrimeVideoAnalysis>Amazon Prime Video Analysis</a></li>
+        <li><a href=https://public.tableau.com/app/profile/srushti.gandhi/viz/ElectricVehicleAnalysis_17228810205090/EVAnalysis>Electric Vehicle Analysis</a></li>
+        <li><a href=https://public.tableau.com/app/profile/srushti.gandhi/viz/HRAnalysis_17228812204080/HRAnalysis>HR Attrition Analysis</a></li><br/>
       </ul>
   </ul>
   <ul>
