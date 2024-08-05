@@ -42,5 +42,13 @@ In this portfolio, I've curated a selection of projects that highlight my techni
       </ul>
   </ul>
   <li><h3>Certificates</h3></li>
+  <ul>
+    <li><a href= https://coursera.org/share/752a4c16f393789c07a6b4435946a803>Google Data Analytics Professional Certificate</a> (Aug 2023) (Coursera - Google)</li>
+  </ul>
   <li><h3>Education</h3></li>
+  <li>Contacts</li>
+  <ul>
+    <li>LinkedIn</li>
+    <li>Email</li>
+  </ul>
 </ul>
