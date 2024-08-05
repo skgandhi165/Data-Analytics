@@ -10,7 +10,7 @@ In this portfolio, I've curated a selection of projects that highlight my techni
   <ul>
     <li><b>Power BI</b>
       <ul>
-        <li><a href=https://github.com/skgandhi165/Data-Analytics.git>Cafe Sales Analysis</a></li>
+        <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/Cafe%20Sales%20Analysis>Cafe Sales Analysis</a></li>
         <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/Indian%20Premier%20League%20Analysis>Indian Premier League Analysis</a></li>
         <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/Pizza%20Sales%20Analysis>Pizza Sales Analysis</a></li>
         <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/Road%20Accidents%20Analysis>Road Accidents Analysis in UK</a></li>
