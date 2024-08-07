@@ -28,6 +28,7 @@ In this portfolio, I've curated a selection of projects that highlight my techni
   <ul>
     <li><b>SQL</b>
       <ul>
+        <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/Covid-19%20Statistics>Covid 19 Data Analysis</a></li>
       </ul>
   </ul>
   <ul>
