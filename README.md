@@ -56,6 +56,7 @@ In this portfolio, I've curated a selection of projects that highlight my techni
   <li><h3>Education</h3></li>
   <li>Contacts</li>
   <ul>
+    <li><a href=https://skgandhi165.github.io/SrushtiGandhi.github.io/>Website</a></li>
     <li>LinkedIn</li>
     <li>Email</li>
   </ul>
