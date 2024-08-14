@@ -35,8 +35,7 @@ In this portfolio, I've curated a selection of projects that highlight my techni
   <ul>
     <li><b>Excel</b>
       <ul>
-        <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/E-Commerce%20Sales%20Analysis>E-Commerce Sales Analysis</a></li>
-          
+        <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/E-Commerce%20Sales%20Analysis>E-Commerce Sales Analysis</a></li> 
       </ul>
   </ul>
   <li><h3>Certificates</h3></li>
