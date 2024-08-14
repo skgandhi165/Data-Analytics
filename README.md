@@ -42,10 +42,13 @@ In this portfolio, I've curated a selection of projects that highlight my techni
   <ul>
     <li><a href= https://coursera.org/share/752a4c16f393789c07a6b4435946a803>Google Data Analytics Professional Certificate</a> (Aug 2023) (Coursera - Google)</li>
   </ul>
-  <li><h3>Education</h3></li>
+  <li><h3>Education</h3>
+  <p>Bsc in Computer Engineering, Nanoscale System Design, University of Alberta</p>
+  </li>
+  
   <li>Contacts</li>
   <ul>
-    <li><a href=https://skgandhi165.github.io/SrushtiGandhi.github.io/>Website</a></li>
+    <li><a href=https://skgandhi165.github.io/SrushtiGandhi.github.io/>Portfolio Website</a></li>
     <li><a href=https://www.linkedin.com/in/srushti-gandhi-7142571a3/>LinkedIn</a></li>
     <li>Email: skgandhi165@gmail.com</li>
   </ul>
