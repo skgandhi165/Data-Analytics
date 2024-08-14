@@ -46,7 +46,7 @@ In this portfolio, I've curated a selection of projects that highlight my techni
   <p>Bsc in Computer Engineering, Nanoscale System Design, University of Alberta</p>
   </li>
   
-  <li>Contacts</li>
+  <li><h3>Contacts</h3></li>
   <ul>
     <li><a href=https://skgandhi165.github.io/SrushtiGandhi.github.io/>Portfolio Website</a></li>
     <li><a href=https://www.linkedin.com/in/srushti-gandhi-7142571a3/>LinkedIn</a></li>
