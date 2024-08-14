@@ -8,22 +8,12 @@ In this portfolio, I've curated a selection of projects that highlight my techni
   <li> <h3><a href=https://github.com/skgandhi165/Data-Analytics/blob/main/README.md#data-analyst-portfolio>About</a></h3></li>
   <li><h3> Projects</h3></li>
   <ul>
-    <li><b>Power BI</b>
-      <ul>
-        <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/Cafe%20Sales%20Analysis>Cafe Sales Analysis</a></li>
-        <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/Indian%20Premier%20League%20Analysis>Indian Premier League Analysis</a></li>
-        <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/Pizza%20Sales%20Analysis>Pizza Sales Analysis</a></li>
-        <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/Road%20Accidents%20Analysis>Road Accidents Analysis in UK</a></li>
-        <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/Spotify%20Analysis>Spotify Analysis</a></li><br/>
-      </ul>
+    <li><b>Power BI</b> (Go to <a href=https://skgandhi165.github.io/SrushtiGandhi.github.io/powerbi.html>Website</a>)
+      
   </ul>
   <ul>
-    <li><b>Tableau</b>
-      <ul>
-        <li><a href=https://public.tableau.com/app/profile/srushti.gandhi/viz/PrimeVideoAnalysis_17228805401230/PrimeVideoAnalysis>Amazon Prime Video Analysis</a></li>
-        <li><a href=https://public.tableau.com/app/profile/srushti.gandhi/viz/ElectricVehicleAnalysis_17228810205090/EVAnalysis>Electric Vehicle Analysis</a></li>
-        <li><a href=https://public.tableau.com/app/profile/srushti.gandhi/viz/HRAnalysis_17228812204080/HRAnalysis>HR Attrition Analysis</a></li><br/>
-      </ul>
+    <li><b>Tableau</b> (Go to <a href=https://public.tableau.com/app/profile/srushti.gandhi/vizzes>Tableau Public</a>)
+      
   </ul>
   <ul>
     <li><b>SQL</b>
@@ -57,7 +47,7 @@ In this portfolio, I've curated a selection of projects that highlight my techni
   <li>Contacts</li>
   <ul>
     <li><a href=https://skgandhi165.github.io/SrushtiGandhi.github.io/>Website</a></li>
-    <li>LinkedIn</li>
-    <li>Email</li>
+    <li><a href=https://www.linkedin.com/in/srushti-gandhi-7142571a3/>LinkedIn</a></li>
+    <li>Email: skgandhi165@gmail.com</li>
   </ul>
 </ul>
