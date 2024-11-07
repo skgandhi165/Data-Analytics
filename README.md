@@ -18,9 +18,9 @@ In this portfolio, I've curated a selection of projects that highlight my techni
   <ul>
     <li><b>SQL</b>
       <ul>
-        <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/Covid-19%20Statistics>Covid 19 Data Analysis</a></li>
-        <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/World%20LayOffs%20Data>World LayOffs 2022 Data Cleaning</a></li>
-        <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/Cafe%20Sales%20Analysis>Coffee Shop Data Analysis</a></li>
+        <li><a href=https://github.com/skgandhi165/Data-Analytics/blob/main/Covid_19_Data_Exploration.sql>Covid 19 Data Analysis</a></li>
+        <li><a href=https://github.com/skgandhi165/Data-Analytics/blob/main/World_LayOffs_Data_Cleaning.sql>World LayOffs 2022 Data Cleaning</a></li>
+        <li><a href=https://github.com/skgandhi165/Data-Analytics/blob/main/Cafe%20Sales%20Analysis/Coffee_Sales_Data_Analysis.sql>Coffee Shop Data Analysis</a></li>
       <br/>
       </ul>
   </ul>
