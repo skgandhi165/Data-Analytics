@@ -28,7 +28,7 @@ In this portfolio, I've curated a selection of projects that highlight my techni
     <li><b>Python</b>
       <ul>
         <li><a href=https://github.com/skgandhi165/Data-Analytics/blob/main/Marathon_Data_Analysis.ipynb>USA Marathon Data Analysis</a></li>
-        <li><a href=https://github.com/skgandhi165/Data-Analytics/tree/main/Diwali%20Sales%20Analysis>Diwali Sales Analysis</a></li>
+        <li><a href=https://github.com/skgandhi165/Data-Analytics/blob/main/Diwali_Sales_Analysis.ipynb>Diwali Sales Analysis</a></li>
       <br/>
       </ul>
   </ul>
