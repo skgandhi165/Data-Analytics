@@ -1,0 +1,1201 @@
+account_id,signup_date,industry,acquisition_channel,plan,seats,mrr,churn_date,churn_flag,usage_events,feature_uses,tickets,avg_resolution_hours,avg_satisfaction,health_score,revenue_at_risk
+10001,2025-02-23,Retail,Paid Search,Pro,18,3582,2025-12-11,True,11.0,404.0,3.0,63.06666666666666,2.6333333333333333,62.166666666666664,3582
+10002,2026-04-10,Technology,Events,Business,13,6487,,False,2.0,46.0,2.0,25.1,3.3,52.1,0
+10003,2026-01-28,Retail,Paid Search,Business,18,8982,,False,1.0,38.0,3.0,28.900000000000002,3.9,52.3,0
+10004,2025-09-21,Professional Services,Paid Search,Pro,5,995,,False,6.0,69.0,0.0,0.0,0.0,46.9,0
+10005,2025-09-17,Manufacturing,Organic,Enterprise,34,44166,,False,5.0,336.0,3.0,26.2,3.9333333333333336,68.66666666666667,0
+10006,2026-05-31,Manufacturing,Organic,Business,14,6986,,False,3.0,87.0,0.0,0.0,0.0,48.7,0
+10007,2025-02-21,Technology,Events,Business,12,5988,,False,6.0,151.0,6.0,19.2,3.9333333333333336,57.766666666666666,0
+10008,2026-02-23,Financial Services,Paid Search,Starter,2,158,,False,6.0,26.0,1.0,19.3,3.4,52.6,0
+10009,2025-05-01,Financial Services,Referral,Pro,8,1592,,False,5.0,89.0,3.0,17.099999999999998,4.666666666666667,61.233333333333334,0
+10010,2025-02-26,Retail,Paid Search,Pro,5,995,,False,6.0,64.0,8.0,58.7875,3.6625,47.7125,0
+10011,2025-11-12,Retail,Organic,Pro,11,2189,,False,6.0,141.0,7.0,21.285714285714285,3.7714285714285714,55.95714285714285,0
+10012,2026-08-09,Healthcare,Partner,Pro,6,1194,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10013,2026-03-18,Retail,Organic,Enterprise,120,155880,,False,3.0,730.0,1.0,44.6,4.1,73.5,0
+10014,2026-04-02,Technology,Partner,Enterprise,38,49362,,False,2.0,132.0,0.0,0.0,0.0,53.2,0
+10015,2026-03-07,Retail,Paid Search,Starter,3,237,,False,3.0,15.0,0.0,0.0,0.0,41.5,0
+10016,2026-04-17,Professional Services,Organic,Pro,5,995,,False,1.0,13.0,1.0,26.6,5.0,59.3,0
+10017,2025-11-04,Retail,Organic,Business,33,16467,,False,5.0,329.0,0.0,0.0,0.0,60.0,0
+10018,2025-03-18,Professional Services,Partner,Starter,4,316,,False,7.0,53.0,4.0,31.099999999999998,3.95,52.05,0
+10019,2026-05-19,Technology,Organic,Starter,3,237,,False,2.0,13.0,0.0,0.0,0.0,41.3,0
+10020,2025-09-28,Manufacturing,Organic,Starter,2,158,,False,4.0,18.0,2.0,32.05,4.1,53.3,0
+10021,2025-10-28,Technology,Partner,Business,19,9481,,False,2.0,63.0,4.0,30.1,4.05,53.55,0
+10022,2025-08-11,Healthcare,Referral,Pro,5,995,,False,7.0,68.0,5.0,44.42,3.6800000000000006,50.2,0
+10023,2025-04-20,Healthcare,Referral,Enterprise,75,97425,,False,5.0,761.0,1.0,85.4,3.0,68.0,0
+10024,2026-07-11,Financial Services,Organic,Pro,11,2189,,False,1.0,27.0,0.0,0.0,0.0,42.7,0
+10025,2026-04-14,Manufacturing,Partner,Enterprise,47,61053,,False,2.0,195.0,0.0,0.0,0.0,59.5,0
+10026,2026-01-22,Technology,Referral,Starter,1,79,,False,8.0,29.0,1.0,66.3,3.9,55.4,0
+10027,2025-08-30,Professional Services,Organic,Business,13,6487,,False,7.0,172.0,1.0,34.4,4.3,71.7,0
+10028,2026-05-09,Professional Services,Referral,Starter,4,316,,False,1.0,8.0,1.0,17.2,4.9,58.3,0
+10029,2025-11-24,Financial Services,Organic,Pro,12,2388,,False,5.0,124.0,2.0,12.7,3.7,61.9,0
+10030,2025-09-24,Financial Services,Referral,Business,27,13473,,False,6.0,334.0,5.0,23.86,3.9800000000000004,64.9,0
+10031,2025-09-28,Manufacturing,Organic,Business,10,4990,,False,5.0,112.0,2.0,98.7,4.05,62.45,0
+10032,2025-05-17,Retail,Organic,Business,20,9980,,False,5.0,197.0,2.0,36.45,4.05,70.95,0
+10033,2025-02-25,Professional Services,Referral,Starter,4,316,,False,11.0,70.0,0.0,0.0,0.0,47.0,0
+10034,2025-11-29,Manufacturing,Partner,Starter,2,158,,False,3.0,15.0,2.0,21.25,3.5,50.0,0
+10035,2026-06-17,Healthcare,Organic,Starter,3,237,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10036,2025-02-08,Healthcare,Organic,Starter,3,237,,False,11.0,79.0,2.0,55.35,4.75,62.65,0
+10037,2026-05-30,Retail,Events,Pro,7,1393,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10038,2026-05-12,Retail,Events,Pro,4,796,,False,5.0,39.0,0.0,0.0,0.0,43.9,0
+10039,2025-06-16,Retail,Paid Search,Business,16,7984,,False,8.0,238.0,0.0,0.0,0.0,60.0,0
+10040,2026-01-14,Healthcare,Organic,Business,16,7984,,False,1.0,33.0,1.0,125.6,4.3,57.8,0
+10041,2025-04-10,Professional Services,Referral,Pro,8,1592,,False,8.0,129.0,2.0,12.6,4.05,64.14999999999999,0
+10042,2026-03-31,Manufacturing,Organic,Business,15,7485,,False,3.0,85.0,0.0,0.0,0.0,48.5,0
+10043,2026-02-25,Professional Services,Organic,Starter,3,237,,False,3.0,14.0,0.0,0.0,0.0,41.4,0
+10044,2025-08-01,Retail,Referral,Starter,3,237,,False,6.0,31.0,1.0,26.7,3.9,55.6,0
+10045,2025-02-10,Professional Services,Paid Search,Pro,9,1791,,False,7.0,124.0,2.0,5.9,4.4,65.4,0
+10046,2026-08-06,Financial Services,Referral,Business,16,7984,,False,1.0,24.0,0.0,0.0,0.0,42.4,0
+10047,2025-09-25,Healthcare,Paid Search,Starter,3,237,,False,5.0,24.0,2.0,28.75,3.2,49.4,0
+10048,2026-06-20,Manufacturing,Referral,Pro,8,1592,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10049,2026-02-11,Healthcare,Referral,Pro,4,796,,False,4.0,29.0,1.0,18.3,4.6,58.9,0
+10050,2026-04-13,Professional Services,Partner,Starter,4,316,,False,1.0,10.0,1.0,25.5,3.3,50.5,0
+10051,2026-04-01,Professional Services,Partner,Starter,3,237,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10052,2025-04-27,Manufacturing,Referral,Business,18,8982,,False,5.0,186.0,3.0,57.699999999999996,3.6666666666666665,65.93333333333332,0
+10053,2025-08-07,Retail,Paid Search,Pro,11,2189,,False,6.0,125.0,2.0,83.6,2.9,58.0,0
+10054,2025-10-08,Technology,Organic,Starter,2,158,,False,6.0,18.0,2.0,33.7,3.5,50.3,0
+10055,2025-10-26,Healthcare,Organic,Business,9,4491,,False,2.0,41.0,0.0,0.0,0.0,44.1,0
+10056,2025-01-27,Financial Services,Partner,Starter,3,237,,False,6.0,40.0,5.0,32.82,4.0,49.0,0
+10057,2025-11-24,Technology,Organic,Business,18,8982,,False,4.0,131.0,2.0,22.25,4.05,64.35,0
+10058,2025-04-03,Healthcare,Referral,Starter,3,237,,False,5.0,23.0,0.0,0.0,0.0,42.3,0
+10059,2026-03-23,Financial Services,Referral,Pro,7,1393,,False,1.0,17.0,1.0,61.9,2.7,48.2,0
+10060,2026-02-14,Financial Services,Organic,Starter,4,316,,False,1.0,7.0,2.0,21.15,3.7,50.2,0
+10061,2026-07-08,Manufacturing,Organic,Starter,4,316,,False,1.0,7.0,1.0,18.3,3.4,50.7,0
+10062,2026-03-23,Retail,Referral,Business,21,10479,,False,2.0,59.0,1.0,23.2,4.6,61.9,0
+10063,2025-08-08,Retail,Events,Starter,3,237,,False,6.0,34.0,2.0,31.0,3.7,52.9,0
+10064,2026-08-04,Financial Services,Paid Search,Starter,1,79,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10065,2025-09-04,Professional Services,Referral,Starter,4,316,,False,5.0,43.0,2.0,20.35,4.4,57.3,0
+10066,2025-07-15,Technology,Organic,Pro,12,2388,,False,8.0,193.0,5.0,43.46,3.8200000000000003,63.4,0
+10067,2026-06-28,Manufacturing,Paid Search,Business,23,11477,,False,1.0,50.0,1.0,5.3,4.4,60.0,0
+10068,2025-08-11,Professional Services,Organic,Enterprise,33,42867,,False,11.0,792.0,2.0,62.8,4.55,73.75,0
+10069,2025-02-15,Financial Services,Paid Search,Starter,4,316,,False,5.0,42.0,0.0,0.0,0.0,44.2,0
+10070,2025-10-09,Professional Services,Partner,Starter,4,316,,False,6.0,38.0,5.0,25.22,3.78,47.699999999999996,0
+10071,2026-04-23,Professional Services,Referral,Starter,5,395,,False,3.0,25.0,2.0,38.0,3.05,48.75,0
+10072,2025-04-24,Financial Services,Referral,Pro,6,1194,2025-08-16,True,2.0,23.0,0.0,0.0,0.0,42.3,1194
+10073,2025-10-05,Healthcare,Organic,Enterprise,42,54558,,False,6.0,515.0,1.0,49.1,3.3,69.5,0
+10074,2025-03-19,Retail,Organic,Pro,10,1990,,False,6.0,118.0,3.0,29.3,3.3666666666666667,57.63333333333333,0
+10075,2026-02-16,Technology,Referral,Pro,8,1592,,False,2.0,31.0,1.0,72.5,3.0,51.1,0
+10076,2025-10-13,Professional Services,Events,Starter,2,158,,False,4.0,21.0,0.0,0.0,0.0,42.1,0
+10077,2025-07-18,Technology,Organic,Business,21,10479,,False,3.0,123.0,2.0,10.350000000000001,4.3,64.8,0
+10078,2025-05-17,Manufacturing,Paid Search,Pro,10,1990,,False,7.0,133.0,2.0,42.55,2.9000000000000004,58.8,0
+10079,2025-12-05,Professional Services,Paid Search,Starter,3,237,,False,7.0,36.0,2.0,20.3,3.55,52.35,0
+10080,2026-02-06,Retail,Organic,Starter,3,237,,False,6.0,27.0,2.0,21.0,4.7,57.2,0
+10081,2026-07-19,Technology,Organic,Starter,3,237,,False,1.0,6.0,0.0,0.0,0.0,40.6,0
+10082,2025-09-20,Retail,Referral,Starter,5,395,,False,8.0,84.0,2.0,35.25,3.75,58.15,0
+10083,2025-04-07,Manufacturing,Paid Search,Starter,2,158,2026-02-21,True,5.0,24.0,4.0,25.775000000000002,3.95,49.15,158
+10084,2026-05-15,Retail,Referral,Pro,7,1393,,False,3.0,49.0,0.0,0.0,0.0,44.9,0
+10085,2026-01-13,Financial Services,Partner,Pro,8,1592,,False,5.0,80.0,2.0,24.25,3.7,57.5,0
+10086,2026-02-25,Professional Services,Partner,Starter,4,316,,False,2.0,16.0,0.0,0.0,0.0,41.6,0
+10087,2025-02-28,Technology,Partner,Pro,5,995,,False,5.0,47.0,0.0,0.0,0.0,44.7,0
+10088,2025-07-07,Healthcare,Events,Enterprise,28,36372,,False,4.0,208.0,3.0,51.300000000000004,3.1333333333333333,64.66666666666667,0
+10089,2026-04-06,Technology,Partner,Business,9,4491,,False,3.0,55.0,0.0,0.0,0.0,45.5,0
+10090,2026-05-15,Retail,Partner,Pro,8,1592,,False,2.0,27.0,1.0,44.9,4.6,58.7,0
+10091,2025-09-19,Professional Services,Partner,Starter,2,158,,False,5.0,22.0,3.0,15.766666666666667,3.466666666666667,48.53333333333334,0
+10092,2026-04-28,Technology,Partner,Business,16,7984,,False,3.0,94.0,0.0,0.0,0.0,49.4,0
+10093,2026-05-21,Financial Services,Partner,Starter,4,316,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10094,2025-08-21,Manufacturing,Events,Starter,2,158,,False,2.0,7.0,2.0,30.2,3.35,48.45,0
+10095,2026-06-23,Technology,Referral,Business,20,9980,,False,1.0,40.0,0.0,0.0,0.0,44.0,0
+10096,2025-06-22,Healthcare,Paid Search,Pro,7,1393,,False,5.0,68.0,2.0,24.2,3.3,54.3,0
+10097,2025-05-24,Financial Services,Paid Search,Business,23,11477,,False,7.0,325.0,3.0,25.366666666666664,4.2,70.0,0
+10098,2026-02-14,Healthcare,Partner,Pro,9,1791,,False,2.0,40.0,0.0,0.0,0.0,44.0,0
+10099,2026-01-18,Technology,Referral,Pro,6,1194,,False,6.0,78.0,1.0,77.5,3.2,56.8,0
+10100,2025-03-25,Manufacturing,Partner,Starter,3,237,,False,10.0,62.0,3.0,49.333333333333336,3.0,50.2,0
+10101,2026-05-15,Technology,Partner,Starter,4,316,,False,2.0,8.0,3.0,32.9,3.4,46.8,0
+10102,2025-04-30,Manufacturing,Events,Starter,3,237,,False,9.0,53.0,2.0,13.9,4.9,60.8,0
+10103,2026-04-28,Financial Services,Organic,Starter,2,158,,False,3.0,5.0,0.0,0.0,0.0,40.5,0
+10104,2025-01-05,Retail,Paid Search,Business,23,11477,,False,9.0,407.0,3.0,24.266666666666666,4.0,69.0,0
+10105,2026-04-24,Technology,Partner,Starter,2,158,,False,3.0,11.0,1.0,48.8,4.2,55.1,0
+10106,2026-04-18,Financial Services,Events,Pro,13,2587,,False,2.0,56.0,2.0,37.550000000000004,3.7,55.1,0
+10107,2026-04-14,Technology,Events,Business,26,12974,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10108,2026-02-03,Financial Services,Paid Search,Business,20,9980,,False,3.0,110.0,0.0,0.0,0.0,51.0,0
+10109,2025-10-10,Healthcare,Paid Search,Pro,8,1592,,False,4.0,68.0,3.0,27.53333333333333,4.0,55.8,0
+10110,2026-02-28,Professional Services,Organic,Pro,7,1393,,False,5.0,63.0,0.0,0.0,0.0,46.3,0
+10111,2025-06-16,Professional Services,Events,Enterprise,57,74043,,False,3.0,343.0,6.0,40.71666666666667,3.733333333333333,61.666666666666664,0
+10112,2026-04-14,Professional Services,Organic,Pro,7,1393,,False,4.0,47.0,0.0,0.0,0.0,44.7,0
+10113,2025-11-30,Professional Services,Partner,Business,20,9980,,False,7.0,289.0,2.0,37.6,3.95,70.75,0
+10114,2025-10-03,Technology,Partner,Business,24,11976,,False,3.0,128.0,1.0,37.2,3.8,64.8,0
+10115,2025-10-31,Professional Services,Referral,Business,15,7485,,False,7.0,211.0,3.0,37.833333333333336,3.466666666666667,66.33333333333333,0
+10116,2025-12-08,Financial Services,Organic,Starter,2,158,,False,7.0,31.0,1.0,32.5,3.6,54.1,0
+10117,2025-01-23,Professional Services,Organic,Pro,5,995,,False,9.0,91.0,4.0,28.525,3.75,54.85,0
+10118,2025-03-25,Healthcare,Partner,Starter,2,158,2025-11-14,True,4.0,23.0,2.0,23.35,4.45,55.55,158
+10119,2025-05-28,Healthcare,Paid Search,Pro,4,796,,False,7.0,68.0,3.0,48.56666666666666,4.0,55.8,0
+10120,2025-03-10,Healthcare,Organic,Enterprise,58,75342,2026-02-22,True,6.0,676.0,3.0,42.06666666666666,3.6666666666666665,67.33333333333333,75342
+10121,2025-09-21,Financial Services,Paid Search,Pro,15,2985,,False,6.0,173.0,1.0,19.1,4.1,70.8,0
+10122,2026-02-06,Professional Services,Organic,Pro,13,2587,,False,3.0,93.0,1.0,41.5,4.1,62.8,0
+10123,2026-01-28,Manufacturing,Partner,Starter,2,158,,False,3.0,22.0,2.0,36.55,3.95,52.95,0
+10124,2025-10-10,Professional Services,Referral,Enterprise,58,75342,,False,5.0,540.0,0.0,0.0,0.0,60.0,0
+10125,2026-05-29,Retail,Organic,Starter,5,395,,False,1.0,7.0,0.0,0.0,0.0,40.7,0
+10126,2025-12-06,Retail,Organic,Starter,3,237,,False,3.0,18.0,0.0,0.0,0.0,41.8,0
+10127,2025-02-17,Healthcare,Paid Search,Starter,3,237,,False,5.0,26.0,6.0,29.05,3.9166666666666665,45.18333333333334,0
+10128,2026-04-04,Financial Services,Referral,Starter,1,79,,False,3.0,9.0,0.0,0.0,0.0,40.9,0
+10129,2025-12-11,Healthcare,Partner,Pro,9,1791,,False,2.0,31.0,0.0,0.0,0.0,43.1,0
+10130,2026-01-16,Manufacturing,Referral,Pro,6,1194,,False,5.0,57.0,2.0,14.5,4.45,58.95,0
+10131,2025-12-06,Retail,Referral,Starter,3,237,,False,3.0,15.0,3.0,24.033333333333335,3.6333333333333333,48.666666666666664,0
+10132,2025-11-29,Manufacturing,Organic,Starter,2,158,,False,7.0,28.0,1.0,24.7,3.5,53.3,0
+10133,2025-02-24,Professional Services,Organic,Starter,4,316,,False,7.0,62.0,1.0,37.7,3.9,58.7,0
+10134,2025-12-02,Manufacturing,Events,Starter,4,316,,False,8.0,57.0,1.0,46.3,3.0,53.7,0
+10135,2026-04-22,Professional Services,Organic,Starter,2,158,,False,2.0,7.0,1.0,30.7,3.2,49.7,0
+10136,2025-07-02,Manufacturing,Events,Pro,5,995,,False,3.0,33.0,2.0,37.7,3.35,51.05,0
+10137,2025-12-28,Retail,Referral,Starter,1,79,,False,4.0,11.0,7.0,31.942857142857147,3.5285714285714285,41.74285714285715,0
+10138,2025-01-19,Manufacturing,Organic,Starter,3,237,,False,4.0,21.0,5.0,55.1,3.3,43.6,0
+10139,2025-07-28,Technology,Organic,Starter,2,158,,False,10.0,39.0,3.0,45.833333333333336,3.5666666666666664,50.733333333333334,0
+10140,2025-09-20,Retail,Organic,Starter,2,158,,False,8.0,35.0,0.0,0.0,0.0,43.5,0
+10141,2026-08-13,Manufacturing,Partner,Starter,4,316,,False,1.0,8.0,0.0,0.0,0.0,40.8,0
+10142,2025-05-09,Technology,Paid Search,Starter,3,237,,False,3.0,10.0,5.0,32.58,3.54,43.7,0
+10143,2025-06-15,Professional Services,Referral,Business,12,5988,,False,9.0,221.0,2.0,46.45,3.9000000000000004,70.5,0
+10144,2025-09-03,Technology,Paid Search,Starter,2,158,,False,10.0,38.0,0.0,0.0,0.0,43.8,0
+10145,2026-08-19,Professional Services,Paid Search,Pro,12,2388,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10146,2026-05-28,Retail,Events,Pro,10,1990,,False,1.0,17.0,1.0,68.0,4.6,57.7,0
+10147,2025-01-21,Financial Services,Events,Starter,3,237,2025-11-07,True,4.0,29.0,4.0,21.375,3.55,47.65,237
+10148,2025-05-21,Professional Services,Paid Search,Pro,10,1990,,False,11.0,233.0,1.0,7.8,3.8,72.0,0
+10149,2026-05-09,Technology,Partner,Business,12,5988,,False,4.0,86.0,0.0,0.0,0.0,48.6,0
+10150,2025-02-04,Professional Services,Partner,Business,18,8982,2025-10-27,True,8.0,269.0,0.0,0.0,0.0,60.0,8982
+10151,2026-05-29,Manufacturing,Referral,Starter,3,237,,False,1.0,12.0,0.0,0.0,0.0,41.2,0
+10152,2025-06-18,Manufacturing,Paid Search,Starter,3,237,,False,9.0,62.0,4.0,57.525,3.075,48.575,0
+10153,2026-07-05,Professional Services,Organic,Starter,3,237,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10154,2025-06-26,Professional Services,Partner,Pro,6,1194,,False,5.0,65.0,5.0,46.019999999999996,3.5,49.0,0
+10155,2025-09-18,Technology,Events,Pro,10,1990,,False,2.0,40.0,1.0,30.9,4.1,57.5,0
+10156,2026-02-02,Manufacturing,Organic,Starter,4,316,,False,6.0,42.0,0.0,0.0,0.0,44.2,0
+10157,2025-03-17,Healthcare,Partner,Starter,1,79,,False,4.0,8.0,2.0,51.85,3.25,48.05,0
+10158,2025-12-01,Healthcare,Events,Business,27,13473,,False,2.0,102.0,3.0,31.13333333333333,4.266666666666667,60.53333333333334,0
+10159,2025-10-31,Professional Services,Organic,Starter,1,79,2026-03-02,True,2.0,3.0,1.0,58.2,3.5,50.8,79
+10160,2026-04-16,Financial Services,Paid Search,Pro,6,1194,,False,1.0,7.0,0.0,0.0,0.0,40.7,0
+10161,2026-08-21,Technology,Events,Pro,11,2189,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10162,2026-02-03,Healthcare,Events,Starter,3,237,,False,3.0,19.0,2.0,39.75,3.5,50.4,0
+10163,2025-09-03,Financial Services,Organic,Starter,2,158,,False,6.0,28.0,4.0,49.15,3.375,46.675,0
+10164,2025-09-01,Professional Services,Referral,Starter,2,158,,False,8.0,22.0,1.0,25.7,4.9,59.7,0
+10165,2025-09-08,Healthcare,Paid Search,Business,26,12974,,False,9.0,464.0,3.0,14.566666666666668,3.6333333333333333,67.16666666666667,0
+10166,2026-05-04,Financial Services,Organic,Starter,2,158,,False,1.0,2.0,2.0,58.7,2.7,44.7,0
+10167,2025-07-12,Retail,Referral,Starter,4,316,,False,7.0,50.0,5.0,28.22,3.78,48.9,0
+10168,2025-04-11,Professional Services,Organic,Starter,3,237,,False,6.0,31.0,1.0,10.9,4.9,60.6,0
+10169,2025-07-20,Technology,Organic,Starter,2,158,,False,10.0,40.0,4.0,36.075,3.9,50.5,0
+10170,2025-01-14,Manufacturing,Paid Search,Pro,7,1393,,False,6.0,94.0,4.0,50.175,3.5,53.9,0
+10171,2025-03-05,Professional Services,Paid Search,Starter,2,158,,False,10.0,54.0,2.0,60.300000000000004,3.5,53.9,0
+10172,2025-02-24,Professional Services,Paid Search,Pro,11,2189,,False,4.0,89.0,3.0,38.53333333333333,4.233333333333333,59.06666666666666,0
+10173,2026-04-08,Healthcare,Partner,Pro,10,1990,,False,1.0,29.0,0.0,0.0,0.0,42.9,0
+10174,2026-03-10,Professional Services,Referral,Business,10,4990,,False,1.0,17.0,1.0,20.4,3.9,54.2,0
+10175,2026-02-23,Retail,Organic,Starter,3,237,2026-07-03,True,2.0,10.0,0.0,0.0,0.0,41.0,237
+10176,2025-10-05,Healthcare,Organic,Business,13,6487,,False,11.0,306.0,3.0,38.23333333333333,3.5,66.5,0
+10177,2026-03-07,Financial Services,Organic,Pro,13,2587,,False,3.0,63.0,4.0,37.699999999999996,3.9,52.8,0
+10178,2025-04-07,Financial Services,Referral,Starter,2,158,,False,7.0,40.0,2.0,66.7,3.45,52.25,0
+10179,2026-06-25,Technology,Organic,Business,32,15968,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10180,2025-10-28,Retail,Organic,Business,18,8982,2026-03-17,True,0.0,0.0,0.0,0.0,0.0,40.0,8982
+10181,2026-07-17,Retail,Organic,Starter,2,158,,False,1.0,3.0,0.0,0.0,0.0,40.3,0
+10182,2025-04-02,Financial Services,Paid Search,Business,14,6986,,False,3.0,83.0,3.0,18.066666666666666,4.333333333333333,58.96666666666666,0
+10183,2025-10-26,Technology,Paid Search,Pro,6,1194,,False,3.0,44.0,1.0,126.8,4.2,58.4,0
+10184,2026-02-22,Technology,Events,Pro,5,995,,False,3.0,29.0,0.0,0.0,0.0,42.9,0
+10185,2025-10-25,Healthcare,Partner,Enterprise,47,61053,,False,3.0,280.0,1.0,23.5,4.4,75.0,0
+10186,2025-09-25,Healthcare,Paid Search,Starter,2,158,,False,6.0,28.0,1.0,5.9,4.2,56.8,0
+10187,2025-04-10,Healthcare,Organic,Business,8,3992,,False,6.0,87.0,5.0,26.04,3.8200000000000003,52.800000000000004,0
+10188,2025-08-17,Professional Services,Paid Search,Starter,3,237,,False,8.0,54.0,1.0,27.6,2.9,52.9,0
+10189,2025-05-24,Manufacturing,Organic,Business,10,4990,,False,7.0,141.0,0.0,0.0,0.0,54.099999999999994,0
+10190,2025-06-30,Professional Services,Referral,Pro,6,1194,,False,5.0,43.0,4.0,56.4,3.875,50.675,0
+10191,2026-02-15,Financial Services,Referral,Starter,2,158,,False,3.0,12.0,0.0,0.0,0.0,41.2,0
+10192,2026-01-14,Technology,Referral,Starter,2,158,,False,6.0,20.0,0.0,0.0,0.0,42.0,0
+10193,2025-12-31,Manufacturing,Organic,Starter,6,474,,False,6.0,69.0,1.0,5.3,4.9,64.4,0
+10194,2025-08-06,Professional Services,Paid Search,Starter,3,237,,False,3.0,26.0,5.0,37.14,3.54,45.300000000000004,0
+10195,2026-07-30,Healthcare,Partner,Starter,3,237,,False,1.0,5.0,0.0,0.0,0.0,40.5,0
+10196,2025-02-22,Professional Services,Partner,Starter,2,158,,False,5.0,16.0,3.0,33.9,3.4,47.6,0
+10197,2025-07-25,Healthcare,Paid Search,Starter,2,158,,False,9.0,31.0,4.0,39.699999999999996,3.725,48.725,0
+10198,2025-03-12,Retail,Paid Search,Starter,3,237,,False,9.0,45.0,2.0,22.450000000000003,3.9,55.0,0
+10199,2025-07-23,Technology,Organic,Pro,6,1194,,False,9.0,124.0,3.0,36.36666666666667,3.9666666666666663,61.233333333333334,0
+10200,2026-08-01,Professional Services,Partner,Pro,11,2189,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10201,2025-08-08,Healthcare,Paid Search,Pro,5,995,,False,6.0,74.0,7.0,52.542857142857144,3.371428571428571,47.25714285714285,0
+10202,2026-06-30,Professional Services,Organic,Starter,3,237,,False,1.0,7.0,0.0,0.0,0.0,40.7,0
+10203,2025-10-25,Professional Services,Referral,Business,15,7485,,False,3.0,103.0,2.0,36.35,4.1,61.8,0
+10204,2026-02-24,Financial Services,Events,Pro,8,1592,,False,5.0,92.0,0.0,0.0,0.0,49.2,0
+10205,2025-10-02,Professional Services,Paid Search,Starter,2,158,,False,7.0,27.0,2.0,17.700000000000003,4.25,54.95,0
+10206,2025-06-09,Technology,Referral,Starter,3,237,,False,8.0,46.0,1.0,24.7,5.0,62.6,0
+10207,2026-04-04,Financial Services,Paid Search,Pro,7,1393,,False,2.0,26.0,1.0,33.0,3.9,55.1,0
+10208,2026-08-05,Healthcare,Referral,Starter,2,158,,False,1.0,5.0,0.0,0.0,0.0,40.5,0
+10209,2025-06-08,Healthcare,Referral,Pro,9,1791,,False,5.0,91.0,3.0,37.333333333333336,3.866666666666667,57.43333333333334,0
+10210,2026-04-13,Manufacturing,Referral,Enterprise,49,63651,,False,1.0,111.0,1.0,35.7,2.8,58.1,0
+10211,2025-06-06,Technology,Referral,Starter,3,237,,False,3.0,12.0,2.0,22.15,3.5999999999999996,50.2,0
+10212,2026-03-07,Retail,Paid Search,Starter,3,237,,False,4.0,32.0,0.0,0.0,0.0,43.2,0
+10213,2026-04-19,Professional Services,Organic,Enterprise,59,76641,,False,3.0,404.0,0.0,0.0,0.0,60.0,0
+10214,2025-09-27,Manufacturing,Partner,Pro,7,1393,,False,3.0,36.0,0.0,0.0,0.0,43.6,0
+10215,2026-03-19,Financial Services,Referral,Starter,3,237,,False,1.0,9.0,1.0,47.3,4.1,54.4,0
+10216,2025-06-13,Technology,Paid Search,Business,19,9481,2025-08-12,True,2.0,70.0,0.0,0.0,0.0,47.0,9481
+10217,2025-02-17,Healthcare,Paid Search,Business,33,16467,,False,10.0,642.0,2.0,10.6,4.5,73.5,0
+10218,2025-02-27,Technology,Paid Search,Pro,5,995,,False,6.0,65.0,6.0,46.51666666666667,3.5500000000000003,47.25,0
+10219,2025-09-26,Professional Services,Paid Search,Pro,10,1990,,False,6.0,105.0,2.0,22.4,3.25,57.75,0
+10220,2026-06-26,Healthcare,Events,Starter,2,158,,False,0.0,0.0,1.0,28.5,3.4,50.0,0
+10221,2025-03-18,Financial Services,Paid Search,Starter,3,237,,False,4.0,13.0,0.0,0.0,0.0,41.3,0
+10222,2025-10-01,Healthcare,Partner,Pro,14,2786,,False,9.0,250.0,2.0,31.299999999999997,3.75,69.75,0
+10223,2026-02-27,Financial Services,Paid Search,Starter,4,316,,False,2.0,19.0,0.0,0.0,0.0,41.9,0
+10224,2025-05-02,Manufacturing,Organic,Pro,8,1592,,False,9.0,160.0,6.0,36.550000000000004,3.8333333333333335,58.16666666666667,0
+10225,2026-03-09,Financial Services,Referral,Business,15,7485,,False,6.0,171.0,0.0,0.0,0.0,57.099999999999994,0
+10226,2025-07-03,Technology,Referral,Starter,3,237,,False,3.0,13.0,2.0,24.1,3.9000000000000004,51.8,0
+10227,2026-05-01,Technology,Organic,Pro,7,1393,,False,3.0,31.0,0.0,0.0,0.0,43.1,0
+10228,2025-12-14,Healthcare,Referral,Starter,2,158,,False,4.0,14.0,3.0,53.03333333333333,3.7999999999999994,49.4,0
+10229,2025-11-25,Technology,Referral,Business,16,7984,,False,6.0,179.0,3.0,45.63333333333333,3.966666666666667,66.73333333333333,0
+10230,2025-04-17,Retail,Paid Search,Starter,3,237,,False,7.0,53.0,1.0,17.8,4.1,58.8,0
+10231,2025-10-05,Technology,Organic,Pro,6,1194,,False,3.0,36.0,2.0,36.35,2.9,49.1,0
+10232,2026-05-29,Professional Services,Partner,Pro,6,1194,,False,2.0,15.0,1.0,90.0,3.2,50.5,0
+10233,2025-01-12,Financial Services,Referral,Starter,2,158,,False,5.0,17.0,3.0,39.93333333333333,4.233333333333333,51.86666666666667,0
+10234,2026-04-01,Professional Services,Paid Search,Pro,9,1791,,False,2.0,42.0,2.0,20.3,3.4,52.2,0
+10235,2025-10-23,Retail,Organic,Pro,10,1990,,False,6.0,113.0,3.0,35.53333333333333,3.9,59.8,0
+10236,2026-03-08,Manufacturing,Referral,Pro,9,1791,,False,4.0,64.0,3.0,32.699999999999996,3.7000000000000006,53.9,0
+10237,2026-02-02,Technology,Organic,Business,25,12475,,False,5.0,264.0,1.0,51.1,5.0,78.0,0
+10238,2025-09-17,Technology,Paid Search,Enterprise,46,59754,,False,4.0,370.0,2.0,26.0,3.25,67.25,0
+10239,2025-07-05,Professional Services,Referral,Starter,3,237,,False,9.0,60.0,3.0,40.46666666666667,3.633333333333333,53.166666666666664,0
+10240,2026-01-12,Healthcare,Events,Pro,9,1791,,False,7.0,120.0,2.0,38.0,3.5,60.5,0
+10241,2025-03-26,Retail,Referral,Starter,3,237,,False,6.0,36.0,3.0,34.833333333333336,3.4,49.6,0
+10242,2025-12-17,Financial Services,Paid Search,Business,15,7485,,False,5.0,149.0,2.0,28.85,3.6,63.900000000000006,0
+10243,2025-02-26,Technology,Organic,Pro,17,3383,,False,5.0,153.0,1.0,22.3,4.3,69.8,0
+10244,2026-01-25,Healthcare,Paid Search,Starter,3,237,,False,3.0,12.0,0.0,0.0,0.0,41.2,0
+10245,2026-01-13,Technology,Referral,Starter,2,158,,False,8.0,31.0,0.0,0.0,0.0,43.1,0
+10246,2025-02-20,Healthcare,Referral,Business,21,10479,,False,9.0,404.0,2.0,53.900000000000006,3.0,66.0,0
+10247,2026-03-31,Technology,Organic,Starter,3,237,,False,2.0,16.0,1.0,21.6,4.3,56.1,0
+10248,2025-09-07,Manufacturing,Organic,Pro,5,995,,False,9.0,82.0,0.0,0.0,0.0,48.2,0
+10249,2026-04-18,Professional Services,Organic,Starter,4,316,,False,1.0,6.0,0.0,0.0,0.0,40.6,0
+10250,2025-01-25,Professional Services,Events,Enterprise,44,57156,,False,6.0,517.0,1.0,15.2,3.5,70.5,0
+10251,2025-04-18,Retail,Referral,Starter,2,158,,False,7.0,30.0,3.0,30.433333333333334,3.266666666666667,48.333333333333336,0
+10252,2025-10-24,Technology,Organic,Starter,5,395,2026-08-07,True,2.0,20.0,2.0,15.9,4.550000000000001,55.75,395
+10253,2025-04-23,Technology,Events,Business,22,10978,,False,10.0,428.0,0.0,0.0,0.0,60.0,0
+10254,2025-07-17,Financial Services,Organic,Business,12,5988,,False,6.0,139.0,1.0,35.8,3.2,62.9,0
+10255,2026-02-01,Professional Services,Referral,Starter,6,474,,False,1.0,13.0,2.0,28.05,3.95,52.05,0
+10256,2025-03-28,Retail,Paid Search,Pro,10,1990,,False,9.0,188.0,4.0,39.375,3.45,63.05,0
+10257,2026-02-11,Healthcare,Events,Pro,8,1592,,False,5.0,76.0,0.0,0.0,0.0,47.6,0
+10258,2025-03-04,Technology,Paid Search,Business,31,15469,,False,3.0,188.0,1.0,24.1,4.4,73.8,0
+10259,2025-04-16,Retail,Referral,Starter,3,237,,False,6.0,37.0,0.0,0.0,0.0,43.7,0
+10260,2025-12-19,Professional Services,Events,Pro,8,1592,,False,8.0,124.0,4.0,26.6,3.95,59.15,0
+10261,2026-04-22,Retail,Organic,Business,14,6986,,False,1.0,25.0,2.0,86.15,4.05,53.75,0
+10262,2025-04-13,Professional Services,Events,Pro,10,1990,2026-02-23,True,8.0,164.0,2.0,27.15,3.9,66.9,1990
+10263,2025-06-29,Technology,Partner,Business,21,10479,,False,11.0,468.0,5.0,41.68,3.28,61.4,0
+10264,2026-07-10,Technology,Events,Pro,8,1592,,False,1.0,23.0,0.0,0.0,0.0,42.3,0
+10265,2026-08-17,Manufacturing,Organic,Starter,2,158,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10266,2025-12-15,Technology,Organic,Business,19,9481,,False,6.0,226.0,3.0,38.0,3.1999999999999997,65.0,0
+10267,2025-09-26,Healthcare,Paid Search,Business,18,8982,,False,6.0,224.0,1.0,104.5,3.4,70.0,0
+10268,2025-07-28,Manufacturing,Paid Search,Business,11,5489,,False,3.0,75.0,1.0,60.0,3.3,57.0,0
+10269,2026-01-03,Retail,Paid Search,Starter,2,158,2026-03-22,True,1.0,1.0,1.0,17.7,4.7,56.6,158
+10270,2025-12-21,Professional Services,Events,Starter,4,316,,False,3.0,18.0,1.0,101.4,3.8,53.8,0
+10271,2025-06-26,Healthcare,Paid Search,Business,7,3493,2025-10-04,True,0.0,0.0,0.0,0.0,0.0,40.0,3493
+10272,2025-01-14,Manufacturing,Referral,Starter,3,237,2026-02-01,True,5.0,32.0,3.0,18.266666666666666,4.5,54.7,237
+10273,2025-04-01,Technology,Referral,Enterprise,38,49362,,False,8.0,623.0,1.0,171.9,3.6,71.0,0
+10274,2026-07-30,Manufacturing,Organic,Starter,5,395,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10275,2025-09-08,Manufacturing,Organic,Pro,7,1393,,False,6.0,97.0,6.0,26.7,4.0,52.7,0
+10276,2025-10-17,Technology,Organic,Business,23,11477,,False,3.0,156.0,2.0,42.0,3.4,63.599999999999994,0
+10277,2025-10-08,Technology,Partner,Starter,3,237,,False,3.0,13.0,2.0,33.6,3.5,49.8,0
+10278,2026-04-15,Healthcare,Paid Search,Starter,3,237,,False,5.0,30.0,0.0,0.0,0.0,43.0,0
+10279,2025-02-08,Technology,Paid Search,Pro,10,1990,,False,10.0,209.0,4.0,49.0,3.825,66.125,0
+10280,2025-02-19,Financial Services,Referral,Pro,7,1393,,False,6.0,80.0,3.0,40.9,3.9333333333333336,56.66666666666667,0
+10281,2025-06-15,Technology,Paid Search,Starter,4,316,,False,10.0,83.0,4.0,57.9,3.65,53.55,0
+10282,2025-10-19,Healthcare,Partner,Pro,6,1194,,False,3.0,30.0,0.0,0.0,0.0,43.0,0
+10283,2026-02-07,Professional Services,Events,Business,20,9980,,False,4.0,142.0,0.0,0.0,0.0,54.2,0
+10284,2025-10-22,Technology,Paid Search,Pro,11,2189,,False,4.0,100.0,6.0,36.61666666666667,4.216666666666667,54.083333333333336,0
+10285,2025-09-22,Technology,Partner,Starter,4,316,,False,0.0,0.0,1.0,11.2,4.1,53.5,0
+10286,2026-07-17,Professional Services,Paid Search,Starter,6,474,,False,1.0,12.0,0.0,0.0,0.0,41.2,0
+10287,2025-04-07,Financial Services,Referral,Starter,2,158,,False,8.0,46.0,3.0,13.4,3.4333333333333336,50.766666666666666,0
+10288,2025-12-10,Technology,Partner,Starter,2,158,,False,2.0,7.0,1.0,27.9,3.7,52.2,0
+10289,2025-11-22,Healthcare,Referral,Starter,2,158,,False,4.0,15.0,0.0,0.0,0.0,41.5,0
+10290,2025-10-12,Financial Services,Referral,Pro,10,1990,,False,3.0,51.0,1.0,50.8,3.6,56.1,0
+10291,2026-04-30,Professional Services,Referral,Starter,4,316,,False,1.0,9.0,0.0,0.0,0.0,40.9,0
+10292,2025-06-10,Manufacturing,Paid Search,Enterprise,47,61053,,False,11.0,1045.0,5.0,22.160000000000004,4.04,65.2,0
+10293,2026-07-27,Financial Services,Paid Search,Starter,2,158,,False,2.0,9.0,0.0,0.0,0.0,40.9,0
+10294,2025-07-18,Healthcare,Paid Search,Starter,4,316,,False,6.0,33.0,3.0,41.43333333333334,4.233333333333333,53.46666666666666,0
+10295,2025-11-24,Professional Services,Referral,Business,12,5988,2026-06-18,True,4.0,94.0,3.0,20.76666666666667,3.5666666666666664,56.233333333333334,5988
+10296,2025-11-09,Healthcare,Organic,Business,27,13473,,False,3.0,168.0,2.0,32.35,3.85,67.05,0
+10297,2026-05-25,Financial Services,Partner,Starter,8,632,,False,0.0,0.0,2.0,33.1,4.55,53.75,0
+10298,2025-09-21,Manufacturing,Referral,Starter,3,237,,False,3.0,16.0,0.0,0.0,0.0,41.6,0
+10299,2025-06-20,Retail,Events,Starter,4,316,2025-09-22,True,2.0,11.0,0.0,0.0,0.0,41.1,316
+10300,2025-01-13,Healthcare,Organic,Pro,7,1393,,False,10.0,166.0,5.0,35.32,3.6,59.599999999999994,0
+10301,2025-08-07,Retail,Paid Search,Pro,4,796,,False,3.0,22.0,5.0,67.22,3.7,45.7,0
+10302,2026-05-11,Technology,Paid Search,Starter,2,158,,False,3.0,10.0,1.0,39.1,3.4,51.0,0
+10303,2025-01-06,Technology,Partner,Starter,2,158,2025-12-15,True,6.0,27.0,2.0,29.9,4.4,55.7,158
+10304,2026-06-22,Manufacturing,Organic,Pro,5,995,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10305,2025-11-22,Healthcare,Events,Enterprise,82,106518,,False,4.0,647.0,0.0,0.0,0.0,60.0,0
+10306,2025-03-26,Retail,Paid Search,Pro,9,1791,,False,5.0,92.0,0.0,0.0,0.0,49.2,0
+10307,2025-07-01,Healthcare,Paid Search,Pro,9,1791,,False,3.0,57.0,2.0,45.75,4.05,56.95,0
+10308,2025-11-29,Technology,Paid Search,Starter,3,237,,False,4.0,24.0,3.0,33.53333333333333,3.9,50.9,0
+10309,2025-07-09,Technology,Organic,Starter,3,237,,False,3.0,26.0,3.0,26.5,3.3666666666666667,48.43333333333334,0
+10310,2025-03-07,Financial Services,Referral,Starter,4,316,,False,9.0,67.0,3.0,22.46666666666667,3.7999999999999994,54.7,0
+10311,2026-02-04,Financial Services,Organic,Business,18,8982,,False,4.0,146.0,3.0,23.3,3.5666666666666664,61.43333333333332,0
+10312,2026-02-08,Manufacturing,Referral,Business,22,10978,,False,1.0,45.0,1.0,48.4,3.7,56.0,0
+10313,2025-03-13,Healthcare,Paid Search,Business,17,8483,,False,8.0,235.0,2.0,47.050000000000004,3.9,70.5,0
+10314,2025-06-18,Professional Services,Referral,Enterprise,40,51960,,False,8.0,668.0,2.0,42.900000000000006,3.75,69.75,0
+10315,2025-05-27,Healthcare,Organic,Enterprise,28,36372,,False,10.0,509.0,2.0,63.1,3.25,67.25,0
+10316,2026-01-31,Retail,Organic,Enterprise,23,29877,,False,3.0,144.0,3.0,26.233333333333334,3.733333333333333,62.06666666666667,0
+10317,2026-03-15,Healthcare,Organic,Starter,3,237,,False,1.0,4.0,0.0,0.0,0.0,40.4,0
+10318,2026-03-13,Professional Services,Organic,Starter,3,237,,False,4.0,29.0,1.0,13.7,3.2,51.9,0
+10319,2026-07-18,Technology,Paid Search,Starter,2,158,,False,0.0,0.0,2.0,37.95,4.4,53.0,0
+10320,2026-04-07,Technology,Organic,Pro,8,1592,,False,2.0,36.0,2.0,49.3,4.4,56.6,0
+10321,2025-07-12,Manufacturing,Events,Starter,3,237,,False,10.0,60.0,3.0,41.53333333333333,3.466666666666667,52.333333333333336,0
+10322,2025-03-06,Technology,Organic,Business,8,3992,2026-03-10,True,8.0,140.0,1.0,23.2,4.7,70.5,3992
+10323,2026-01-04,Manufacturing,Organic,Pro,6,1194,,False,2.0,18.0,0.0,0.0,0.0,41.8,0
+10324,2026-07-04,Healthcare,Partner,Pro,9,1791,,False,2.0,41.0,0.0,0.0,0.0,44.1,0
+10325,2026-08-09,Technology,Referral,Starter,3,237,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10326,2025-05-19,Manufacturing,Referral,Starter,2,158,,False,3.0,10.0,0.0,0.0,0.0,41.0,0
+10327,2025-05-22,Technology,Events,Starter,3,237,,False,8.0,56.0,0.0,0.0,0.0,45.6,0
+10328,2025-01-23,Technology,Events,Business,26,12974,,False,8.0,395.0,0.0,0.0,0.0,60.0,0
+10329,2025-03-26,Financial Services,Paid Search,Pro,11,2189,,False,6.0,121.0,2.0,52.3,3.4,60.1,0
+10330,2025-11-29,Professional Services,Organic,Pro,8,1592,,False,6.0,92.0,0.0,0.0,0.0,49.2,0
+10331,2025-11-25,Professional Services,Paid Search,Starter,3,237,,False,2.0,6.0,2.0,14.5,3.3,48.1,0
+10332,2025-08-11,Professional Services,Events,Starter,2,158,,False,6.0,21.0,1.0,12.5,3.7,53.6,0
+10333,2025-07-05,Financial Services,Events,Starter,4,316,2025-11-15,True,0.0,0.0,0.0,0.0,0.0,40.0,316
+10334,2026-05-13,Technology,Organic,Business,19,9481,,False,1.0,32.0,0.0,0.0,0.0,43.2,0
+10335,2025-10-04,Professional Services,Referral,Business,22,10978,,False,3.0,127.0,3.0,55.1,2.9333333333333336,56.366666666666674,0
+10336,2026-04-30,Financial Services,Referral,Starter,3,237,,False,4.0,22.0,0.0,0.0,0.0,42.2,0
+10337,2026-08-01,Retail,Organic,Enterprise,60,77940,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10338,2025-07-10,Healthcare,Paid Search,Starter,3,237,,False,10.0,43.0,1.0,25.1,3.4,54.3,0
+10339,2025-05-02,Professional Services,Organic,Business,24,11976,,False,3.0,141.0,5.0,36.28,3.7,57.599999999999994,0
+10340,2026-07-26,Financial Services,Referral,Starter,4,316,,False,1.0,5.0,0.0,0.0,0.0,40.5,0
+10341,2026-01-16,Healthcare,Organic,Starter,2,158,,False,0.0,0.0,5.0,21.6,4.26,46.3,0
+10342,2025-06-24,Retail,Referral,Business,10,4990,,False,4.0,81.0,1.0,32.6,4.0,61.1,0
+10343,2026-01-09,Professional Services,Organic,Starter,5,395,,False,7.0,77.0,3.0,81.43333333333334,4.133333333333334,57.366666666666674,0
+10344,2025-11-06,Financial Services,Referral,Starter,3,237,,False,6.0,47.0,5.0,42.86,4.04,49.900000000000006,0
+10345,2026-06-28,Financial Services,Organic,Pro,4,796,,False,1.0,7.0,0.0,0.0,0.0,40.7,0
+10346,2025-06-03,Technology,Events,Starter,2,158,,False,6.0,29.0,5.0,26.22,3.8200000000000003,47.0,0
+10347,2026-08-18,Financial Services,Organic,Pro,10,1990,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10348,2026-07-16,Technology,Paid Search,Business,16,7984,,False,1.0,28.0,1.0,35.5,3.2,51.8,0
+10349,2025-04-19,Financial Services,Organic,Business,15,7485,,False,3.0,84.0,2.0,28.7,3.65,57.65,0
+10350,2025-04-09,Manufacturing,Organic,Starter,5,395,,False,10.0,106.0,3.0,43.56666666666666,3.4,56.6,0
+10351,2025-11-16,Financial Services,Organic,Pro,6,1194,,False,6.0,74.0,2.0,35.25,4.65,61.65,0
+10352,2025-01-27,Healthcare,Organic,Starter,2,158,,False,11.0,44.0,4.0,34.2,3.8,50.4,0
+10353,2025-06-29,Professional Services,Organic,Starter,3,237,,False,11.0,67.0,4.0,32.05,3.775,52.575,0
+10354,2025-09-19,Manufacturing,Referral,Starter,3,237,,False,5.0,43.0,0.0,0.0,0.0,44.3,0
+10355,2026-08-05,Healthcare,Paid Search,Enterprise,54,70146,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10356,2026-08-19,Manufacturing,Organic,Business,25,12475,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10357,2025-04-01,Healthcare,Referral,Business,19,9481,2026-03-14,True,5.0,183.0,3.0,27.566666666666666,4.033333333333333,67.46666666666667,9481
+10358,2026-06-20,Financial Services,Paid Search,Pro,9,1791,,False,2.0,42.0,0.0,0.0,0.0,44.2,0
+10359,2025-02-24,Financial Services,Organic,Pro,7,1393,,False,6.0,76.0,2.0,25.85,3.55,56.35,0
+10360,2026-03-26,Manufacturing,Referral,Pro,8,1592,,False,1.0,13.0,4.0,26.375,3.75,47.05,0
+10361,2026-05-23,Manufacturing,Organic,Pro,8,1592,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10362,2026-06-19,Retail,Organic,Pro,9,1791,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10363,2025-05-15,Technology,Referral,Starter,4,316,,False,3.0,19.0,6.0,42.63333333333333,3.766666666666667,43.733333333333334,0
+10364,2026-06-21,Technology,Events,Starter,4,316,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10365,2025-03-11,Professional Services,Events,Enterprise,46,59754,,False,11.0,1010.0,3.0,27.96666666666667,4.133333333333334,69.66666666666667,0
+10366,2025-11-08,Technology,Events,Pro,6,1194,,False,1.0,12.0,0.0,0.0,0.0,41.2,0
+10367,2025-10-09,Professional Services,Referral,Enterprise,46,59754,,False,2.0,204.0,2.0,53.1,2.85,65.25,0
+10368,2025-07-09,Technology,Organic,Starter,3,237,,False,3.0,19.0,1.0,20.8,4.7,58.4,0
+10369,2025-01-14,Manufacturing,Referral,Pro,9,1791,,False,5.0,87.0,4.0,57.875,4.25,56.95,0
+10370,2026-04-09,Technology,Organic,Starter,6,474,,False,2.0,30.0,0.0,0.0,0.0,43.0,0
+10371,2025-07-21,Financial Services,Organic,Starter,2,158,,False,4.0,10.0,0.0,0.0,0.0,41.0,0
+10372,2026-02-01,Retail,Organic,Starter,3,237,,False,3.0,23.0,2.0,15.450000000000001,5.0,58.3,0
+10373,2025-09-04,Professional Services,Referral,Starter,4,316,,False,5.0,39.0,2.0,70.94999999999999,3.25,51.15,0
+10374,2025-08-13,Healthcare,Referral,Business,19,9481,,False,8.0,286.0,2.0,53.75,4.0,71.0,0
+10375,2026-06-16,Manufacturing,Organic,Starter,7,553,2026-08-25,True,1.0,18.0,0.0,0.0,0.0,41.8,553
+10376,2025-02-26,Healthcare,Paid Search,Pro,7,1393,,False,8.0,112.0,3.0,14.966666666666669,3.766666666666667,59.03333333333334,0
+10377,2026-03-18,Manufacturing,Referral,Pro,9,1791,,False,6.0,106.0,2.0,16.65,4.3,63.1,0
+10378,2026-03-25,Financial Services,Partner,Starter,2,158,,False,2.0,11.0,0.0,0.0,0.0,41.1,0
+10379,2025-08-16,Healthcare,Organic,Pro,7,1393,,False,3.0,31.0,2.0,37.650000000000006,3.45,51.35,0
+10380,2025-06-07,Technology,Paid Search,Starter,3,237,,False,6.0,44.0,3.0,31.133333333333336,3.966666666666667,53.233333333333334,0
+10381,2025-01-04,Manufacturing,Organic,Enterprise,61,79239,,False,6.0,717.0,5.0,44.9,3.44,62.2,0
+10382,2026-07-17,Healthcare,Referral,Business,20,9980,,False,2.0,65.0,0.0,0.0,0.0,46.5,0
+10383,2026-07-23,Professional Services,Organic,Business,28,13972,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10384,2025-05-25,Retail,Organic,Pro,8,1592,,False,6.0,105.0,1.0,46.6,4.4,65.5,0
+10385,2025-01-20,Financial Services,Paid Search,Starter,3,237,,False,9.0,58.0,1.0,89.4,4.0,58.8,0
+10386,2025-03-15,Technology,Organic,Business,46,22954,,False,6.0,515.0,2.0,25.6,4.55,73.75,0
+10387,2025-02-10,Healthcare,Organic,Starter,3,237,2025-07-06,True,4.0,19.0,2.0,12.75,3.9499999999999997,52.65,237
+10388,2026-05-14,Professional Services,Events,Starter,2,158,,False,1.0,5.0,0.0,0.0,0.0,40.5,0
+10389,2026-06-20,Technology,Organic,Starter,2,158,,False,0.0,0.0,1.0,86.9,2.8,47.0,0
+10390,2025-04-02,Professional Services,Paid Search,Business,13,6487,,False,11.0,295.0,4.0,42.0,4.075,67.375,0
+10391,2026-03-25,Manufacturing,Paid Search,Pro,11,2189,,False,3.0,73.0,1.0,8.7,5.0,65.3,0
+10392,2025-04-18,Professional Services,Organic,Business,16,7984,,False,5.0,145.0,1.0,86.4,4.1,68.0,0
+10393,2025-08-09,Financial Services,Referral,Business,19,9481,,False,7.0,240.0,1.0,125.7,3.8,72.0,0
+10394,2025-12-26,Healthcare,Organic,Starter,3,237,,False,8.0,39.0,2.0,23.25,4.0,54.9,0
+10395,2026-03-08,Technology,Partner,Business,23,11477,,False,4.0,172.0,1.0,14.4,3.9,69.7,0
+10396,2026-06-09,Healthcare,Organic,Pro,6,1194,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10397,2025-01-27,Professional Services,Organic,Pro,5,995,,False,5.0,59.0,5.0,35.3,3.88,50.3,0
+10398,2025-04-28,Healthcare,Referral,Starter,3,237,,False,5.0,23.0,2.0,24.0,3.5,50.8,0
+10399,2025-06-18,Professional Services,Events,Enterprise,56,72744,,False,9.0,1007.0,6.0,20.4,4.083333333333333,63.416666666666664,0
+10400,2025-07-06,Technology,Partner,Starter,3,237,,False,8.0,48.0,3.0,46.800000000000004,3.3000000000000003,50.3,0
+10401,2026-08-22,Healthcare,Events,Starter,2,158,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10402,2026-04-12,Healthcare,Paid Search,Pro,10,1990,,False,2.0,40.0,0.0,0.0,0.0,44.0,0
+10403,2025-07-12,Manufacturing,Paid Search,Starter,2,158,,False,10.0,34.0,0.0,0.0,0.0,43.4,0
+10404,2026-08-07,Healthcare,Referral,Starter,2,158,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10405,2025-10-27,Retail,Events,Pro,6,1194,,False,6.0,65.0,1.0,69.1,3.9,59.0,0
+10406,2025-10-28,Professional Services,Paid Search,Starter,5,395,,False,2.0,16.0,1.0,27.8,3.0,49.6,0
+10407,2025-09-18,Professional Services,Referral,Business,22,10978,,False,5.0,200.0,3.0,107.76666666666667,3.4,66.0,0
+10408,2025-03-28,Financial Services,Paid Search,Starter,4,316,,False,5.0,40.0,0.0,0.0,0.0,44.0,0
+10409,2026-07-15,Retail,Paid Search,Pro,12,2388,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10410,2025-01-09,Retail,Organic,Pro,21,4179,,False,8.0,317.0,2.0,12.6,4.35,72.75,0
+10411,2025-04-15,Professional Services,Referral,Pro,4,796,,False,4.0,28.0,1.0,25.4,3.9,55.3,0
+10412,2025-05-18,Retail,Referral,Pro,6,1194,,False,5.0,54.0,8.0,31.3625,4.125,49.025,0
+10413,2025-06-17,Professional Services,Partner,Pro,6,1194,,False,9.0,113.0,2.0,17.05,3.8499999999999996,61.55,0
+10414,2025-03-21,Technology,Referral,Enterprise,33,42867,,False,7.0,469.0,5.0,27.2,3.18,60.9,0
+10415,2025-01-11,Technology,Partner,Starter,2,158,,False,6.0,22.0,1.0,22.5,4.8,59.2,0
+10416,2026-02-11,Financial Services,Referral,Starter,3,237,,False,2.0,15.0,0.0,0.0,0.0,41.5,0
+10417,2026-08-05,Retail,Partner,Pro,5,995,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10418,2025-03-15,Technology,Organic,Business,20,9980,,False,10.0,326.0,10.0,38.53,3.7399999999999998,61.699999999999996,0
+10419,2025-06-27,Financial Services,Events,Starter,3,237,,False,8.0,47.0,3.0,23.066666666666666,3.6333333333333333,51.86666666666667,0
+10420,2025-10-31,Technology,Referral,Pro,9,1791,,False,2.0,33.0,3.0,30.666666666666668,3.8666666666666667,51.63333333333333,0
+10421,2026-07-11,Technology,Organic,Business,22,10978,,False,2.0,83.0,0.0,0.0,0.0,48.3,0
+10422,2026-02-21,Technology,Organic,Business,22,10978,,False,2.0,83.0,0.0,0.0,0.0,48.3,0
+10423,2026-04-05,Retail,Organic,Enterprise,39,50661,,False,2.0,184.0,0.0,0.0,0.0,58.400000000000006,0
+10424,2025-12-15,Manufacturing,Referral,Pro,17,3383,,False,2.0,71.0,0.0,0.0,0.0,47.1,0
+10425,2025-09-08,Professional Services,Paid Search,Pro,9,1791,,False,10.0,173.0,8.0,33.0375,3.75,59.05,0
+10426,2025-04-30,Professional Services,Events,Starter,2,158,,False,6.0,28.0,1.0,35.9,3.4,52.8,0
+10427,2026-06-03,Professional Services,Paid Search,Enterprise,32,41568,,False,1.0,57.0,0.0,0.0,0.0,45.7,0
+10428,2026-04-28,Retail,Paid Search,Starter,2,158,,False,1.0,0.0,0.0,0.0,0.0,40.0,0
+10429,2025-01-16,Healthcare,Referral,Pro,8,1592,2025-12-06,True,4.0,67.0,3.0,55.5,3.3333333333333335,52.36666666666667,1592
+10430,2026-03-06,Professional Services,Partner,Starter,3,237,,False,3.0,21.0,1.0,60.3,3.3,51.6,0
+10431,2025-02-20,Financial Services,Partner,Pro,7,1393,,False,6.0,83.0,2.0,38.599999999999994,3.55,57.05,0
+10432,2026-03-20,Manufacturing,Referral,Pro,16,3184,,False,2.0,78.0,0.0,0.0,0.0,47.8,0
+10433,2026-05-11,Manufacturing,Events,Pro,10,1990,,False,1.0,25.0,0.0,0.0,0.0,42.5,0
+10434,2025-03-20,Financial Services,Referral,Business,23,11477,,False,10.0,429.0,5.0,36.9,3.4799999999999995,62.4,0
+10435,2025-09-18,Healthcare,Partner,Starter,2,158,,False,3.0,15.0,2.0,30.2,4.0,52.5,0
+10436,2025-03-16,Manufacturing,Events,Pro,6,1194,,False,3.0,41.0,2.0,25.9,3.8499999999999996,54.35,0
+10437,2025-12-07,Healthcare,Paid Search,Starter,3,237,,False,6.0,40.0,1.0,62.6,3.4,54.0,0
+10438,2026-07-11,Professional Services,Organic,Starter,3,237,,False,1.0,5.0,1.0,92.0,3.7,52.0,0
+10439,2025-02-18,Technology,Paid Search,Pro,4,796,,False,7.0,56.0,4.0,69.25,3.375,49.475,0
+10440,2025-08-27,Technology,Organic,Starter,3,237,,False,7.0,36.0,4.0,43.150000000000006,3.55,48.35,0
+10441,2026-08-07,Manufacturing,Partner,Starter,3,237,,False,1.0,7.0,0.0,0.0,0.0,40.7,0
+10442,2025-06-30,Financial Services,Referral,Pro,7,1393,,False,8.0,108.0,2.0,73.8,3.8,60.8,0
+10443,2025-03-21,Professional Services,Paid Search,Pro,6,1194,2025-05-23,True,1.0,15.0,0.0,0.0,0.0,41.5,1194
+10444,2025-10-21,Retail,Events,Pro,7,1393,,False,4.0,58.0,1.0,32.2,2.9,53.3,0
+10445,2025-11-02,Professional Services,Organic,Starter,3,237,,False,3.0,18.0,4.0,45.825,3.55,46.55,0
+10446,2026-02-02,Healthcare,Referral,Starter,3,237,,False,2.0,3.0,1.0,48.6,2.6,46.3,0
+10447,2025-07-08,Financial Services,Paid Search,Starter,4,316,,False,10.0,77.0,1.0,65.9,4.7,64.2,0
+10448,2026-07-28,Manufacturing,Referral,Business,26,12974,,False,2.0,114.0,0.0,0.0,0.0,51.4,0
+10449,2025-11-09,Professional Services,Organic,Business,16,7984,,False,4.0,124.0,2.0,23.25,3.7,61.9,0
+10450,2025-06-21,Retail,Organic,Starter,3,237,,False,4.0,25.0,3.0,25.5,4.233333333333333,52.666666666666664,0
+10451,2026-07-31,Technology,Referral,Pro,9,1791,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10452,2026-07-09,Manufacturing,Paid Search,Starter,4,316,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10453,2025-10-27,Financial Services,Paid Search,Starter,3,237,,False,7.0,52.0,0.0,0.0,0.0,45.2,0
+10454,2025-01-15,Financial Services,Organic,Starter,4,316,,False,11.0,82.0,4.0,72.0,3.5749999999999997,53.075,0
+10455,2025-12-25,Retail,Referral,Starter,4,316,,False,5.0,30.0,0.0,0.0,0.0,43.0,0
+10456,2025-11-30,Professional Services,Referral,Pro,13,2587,,False,4.0,106.0,1.0,70.0,3.3,60.1,0
+10457,2025-03-30,Manufacturing,Organic,Business,34,16966,,False,9.0,680.0,0.0,0.0,0.0,60.0,0
+10458,2026-01-16,Retail,Partner,Starter,2,158,,False,5.0,17.0,1.0,21.6,3.6,52.7,0
+10459,2026-05-20,Healthcare,Referral,Pro,8,1592,,False,2.0,29.0,0.0,0.0,0.0,42.9,0
+10460,2025-03-05,Technology,Paid Search,Pro,8,1592,,False,10.0,158.0,7.0,35.25714285714286,3.8000000000000003,57.8,0
+10461,2026-03-10,Professional Services,Events,Enterprise,43,55857,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10462,2025-03-26,Healthcare,Paid Search,Pro,6,1194,,False,9.0,115.0,3.0,18.333333333333332,3.9,60.0,0
+10463,2026-03-26,Technology,Paid Search,Starter,2,158,,False,0.0,0.0,2.0,58.75,3.05,46.25,0
+10464,2025-09-09,Technology,Organic,Pro,8,1592,,False,4.0,72.0,1.0,209.5,4.1,60.7,0
+10465,2025-01-04,Healthcare,Organic,Starter,2,158,,False,7.0,37.0,2.0,26.45,3.5999999999999996,52.7,0
+10466,2026-08-03,Professional Services,Organic,Enterprise,46,59754,,False,1.0,94.0,0.0,0.0,0.0,49.4,0
+10467,2025-04-10,Professional Services,Partner,Starter,2,158,2025-12-09,True,10.0,31.0,1.0,28.5,3.6,54.1,158
+10468,2025-12-24,Financial Services,Partner,Pro,5,995,,False,2.0,18.0,2.0,68.65,4.35,54.55,0
+10469,2025-04-19,Professional Services,Organic,Starter,3,237,2026-08-25,True,11.0,73.0,1.0,22.1,4.6,63.3,237
+10470,2026-07-14,Technology,Organic,Starter,3,237,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10471,2026-03-19,Technology,Referral,Business,22,10978,,False,2.0,78.0,2.0,31.049999999999997,3.1,54.3,0
+10472,2026-04-28,Technology,Paid Search,Pro,17,3383,,False,3.0,92.0,2.0,59.05,3.2,56.2,0
+10473,2025-09-17,Technology,Paid Search,Pro,9,1791,,False,8.0,139.0,4.0,37.325,4.2,61.9,0
+10474,2025-10-08,Healthcare,Paid Search,Business,21,10479,,False,7.0,291.0,2.0,43.550000000000004,3.0999999999999996,66.5,0
+10475,2026-01-16,Professional Services,Events,Business,12,5988,,False,3.0,86.0,2.0,23.75,3.45,56.85,0
+10476,2026-04-16,Technology,Referral,Starter,2,158,,False,4.0,16.0,1.0,41.6,2.4,46.6,0
+10477,2026-05-24,Technology,Paid Search,Pro,14,2786,,False,3.0,97.0,0.0,0.0,0.0,49.7,0
+10478,2025-01-11,Retail,Paid Search,Pro,6,1194,,False,6.0,64.0,4.0,43.625,3.55,51.15,0
+10479,2026-02-03,Manufacturing,Referral,Pro,6,1194,,False,4.0,44.0,0.0,0.0,0.0,44.4,0
+10480,2025-03-07,Retail,Events,Starter,3,237,2025-09-23,True,2.0,9.0,3.0,51.833333333333336,3.1999999999999997,45.9,237
+10481,2025-06-22,Technology,Organic,Starter,3,237,,False,3.0,24.0,1.0,27.2,4.4,57.4,0
+10482,2026-05-13,Professional Services,Paid Search,Business,13,6487,,False,1.0,25.0,0.0,0.0,0.0,42.5,0
+10483,2025-05-31,Retail,Partner,Business,16,7984,2026-02-23,True,5.0,164.0,0.0,0.0,0.0,56.400000000000006,7984
+10484,2026-04-24,Professional Services,Events,Business,28,13972,,False,1.0,54.0,2.0,24.25,3.65,54.65,0
+10485,2025-10-05,Manufacturing,Paid Search,Enterprise,34,44166,,False,6.0,405.0,2.0,24.6,3.55,68.75,0
+10486,2025-05-20,Healthcare,Referral,Business,11,5489,,False,3.0,70.0,3.0,24.900000000000002,3.6999999999999997,54.5,0
+10487,2025-07-20,Retail,Partner,Business,25,12475,,False,5.0,256.0,2.0,41.6,3.3,67.5,0
+10488,2025-11-15,Manufacturing,Partner,Business,21,10479,,False,2.0,65.0,0.0,0.0,0.0,46.5,0
+10489,2026-04-05,Professional Services,Paid Search,Pro,6,1194,,False,3.0,33.0,1.0,22.4,4.0,56.3,0
+10490,2025-12-30,Technology,Partner,Pro,5,995,,False,4.0,33.0,0.0,0.0,0.0,43.3,0
+10491,2026-07-14,Manufacturing,Organic,Starter,2,158,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10492,2026-06-05,Manufacturing,Paid Search,Pro,8,1592,,False,1.0,14.0,0.0,0.0,0.0,41.4,0
+10493,2026-03-29,Professional Services,Partner,Starter,5,395,,False,1.0,10.0,1.0,47.0,3.5,51.5,0
+10494,2025-12-28,Financial Services,Referral,Starter,2,158,,False,5.0,22.0,1.0,34.6,3.4,52.2,0
+10495,2025-06-23,Professional Services,Referral,Pro,8,1592,,False,5.0,82.0,0.0,0.0,0.0,48.2,0
+10496,2025-09-05,Financial Services,Events,Starter,4,316,,False,4.0,31.0,0.0,0.0,0.0,43.1,0
+10497,2025-03-13,Healthcare,Partner,Starter,1,79,,False,5.0,13.0,2.0,28.5,3.6,50.3,0
+10498,2025-08-13,Healthcare,Events,Business,26,12974,,False,10.0,490.0,3.0,49.699999999999996,4.133333333333333,69.66666666666666,0
+10499,2026-07-10,Financial Services,Referral,Business,12,5988,,False,2.0,65.0,1.0,41.2,4.4,61.5,0
+10500,2025-09-13,Healthcare,Events,Starter,3,237,2025-12-07,True,1.0,9.0,0.0,0.0,0.0,40.9,237
+10501,2025-03-10,Financial Services,Organic,Starter,3,237,2026-04-08,True,9.0,46.0,1.0,12.2,4.4,59.6,237
+10502,2026-01-27,Healthcare,Paid Search,Starter,4,316,,False,5.0,35.0,1.0,86.1,3.0,51.5,0
+10503,2026-08-01,Professional Services,Referral,Business,22,10978,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10504,2026-06-05,Retail,Partner,Business,8,3992,,False,0.0,0.0,1.0,11.7,3.6,51.0,0
+10505,2025-06-14,Retail,Events,Starter,2,158,2026-05-16,True,2.0,8.0,3.0,58.1,3.6999999999999997,48.3,158
+10506,2025-09-30,Financial Services,Partner,Business,19,9481,,False,2.0,73.0,0.0,0.0,0.0,47.3,0
+10507,2025-11-15,Technology,Paid Search,Starter,3,237,,False,6.0,34.0,0.0,0.0,0.0,43.4,0
+10508,2025-05-29,Professional Services,Referral,Starter,4,316,,False,8.0,75.0,2.0,16.95,4.05,58.75,0
+10509,2025-06-11,Manufacturing,Paid Search,Enterprise,59,76641,,False,11.0,1282.0,2.0,26.15,3.05,66.25,0
+10510,2025-05-22,Technology,Paid Search,Starter,4,316,,False,3.0,20.0,3.0,21.066666666666666,4.0,51.0,0
+10511,2026-08-20,Financial Services,Organic,Starter,3,237,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10512,2026-03-24,Financial Services,Paid Search,Pro,4,796,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10513,2026-05-20,Retail,Partner,Pro,7,1393,,False,1.0,14.0,1.0,31.2,3.8,53.4,0
+10514,2026-05-05,Technology,Paid Search,Business,21,10479,,False,2.0,90.0,2.0,30.15,4.6,63.0,0
+10515,2026-07-30,Technology,Partner,Enterprise,31,40269,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10516,2025-03-05,Professional Services,Referral,Starter,4,316,,False,8.0,70.0,2.0,35.5,3.55,55.75,0
+10517,2026-06-13,Technology,Paid Search,Starter,4,316,,False,1.0,12.0,0.0,0.0,0.0,41.2,0
+10518,2025-02-09,Technology,Organic,Business,19,9481,,False,3.0,113.0,4.0,17.575,3.8,57.3,0
+10519,2025-10-13,Technology,Referral,Starter,1,79,,False,7.0,20.0,4.0,21.9,4.4,51.0,0
+10520,2025-12-23,Professional Services,Referral,Business,12,5988,,False,3.0,82.0,0.0,0.0,0.0,48.2,0
+10521,2025-08-03,Manufacturing,Organic,Pro,15,2985,,False,10.0,271.0,1.0,120.0,3.8,72.0,0
+10522,2025-03-29,Financial Services,Organic,Starter,2,158,,False,10.0,35.0,8.0,36.8125,3.6625,44.8125,0
+10523,2025-04-26,Technology,Paid Search,Business,9,4491,,False,4.0,69.0,2.0,48.6,3.45,55.15,0
+10524,2026-05-10,Financial Services,Referral,Starter,5,395,,False,3.0,28.0,0.0,0.0,0.0,42.8,0
+10525,2025-07-11,Technology,Referral,Pro,8,1592,,False,9.0,120.0,1.0,53.2,4.3,66.5,0
+10526,2025-07-06,Retail,Organic,Pro,12,2388,,False,5.0,128.0,2.0,48.150000000000006,4.15,64.55,0
+10527,2026-07-09,Technology,Paid Search,Pro,9,1791,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10528,2025-03-28,Technology,Referral,Pro,9,1791,,False,9.0,133.0,3.0,53.6,3.6,60.3,0
+10529,2026-07-04,Technology,Referral,Pro,9,1791,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10530,2026-07-07,Retail,Paid Search,Enterprise,57,74043,,False,1.0,119.0,0.0,0.0,0.0,51.9,0
+10531,2025-12-26,Retail,Organic,Enterprise,100,129900,,False,6.0,1223.0,1.0,19.2,3.6,71.0,0
+10532,2025-04-10,Retail,Events,Pro,11,2189,2025-07-19,True,2.0,49.0,0.0,0.0,0.0,44.9,2189
+10533,2025-04-04,Financial Services,Organic,Starter,2,158,,False,3.0,11.0,1.0,27.8,3.7,52.6,0
+10534,2025-06-20,Healthcare,Referral,Pro,9,1791,,False,7.0,141.0,2.0,29.2,4.65,68.35,0
+10535,2025-12-13,Healthcare,Organic,Enterprise,67,87033,,False,6.0,809.0,1.0,31.4,3.7,71.5,0
+10536,2025-04-03,Financial Services,Paid Search,Starter,5,395,,False,7.0,69.0,1.0,53.7,3.3,56.4,0
+10537,2025-10-01,Financial Services,Referral,Pro,7,1393,,False,8.0,110.0,0.0,0.0,0.0,51.0,0
+10538,2025-03-11,Retail,Partner,Pro,12,2388,,False,7.0,153.0,0.0,0.0,0.0,55.3,0
+10539,2025-11-21,Professional Services,Referral,Starter,4,316,2026-07-18,True,4.0,26.0,1.0,52.2,3.4,52.6,316
+10540,2025-01-13,Retail,Paid Search,Pro,20,3980,,False,3.0,124.0,3.0,27.73333333333333,3.466666666666667,58.733333333333334,0
+10541,2026-03-02,Technology,Organic,Starter,2,158,,False,3.0,15.0,2.0,55.45,3.7,51.0,0
+10542,2025-02-03,Manufacturing,Organic,Business,15,7485,,False,10.0,302.0,3.0,40.666666666666664,2.733333333333333,62.666666666666664,0
+10543,2025-04-27,Retail,Referral,Business,16,7984,2026-06-29,True,11.0,331.0,2.0,14.8,3.55,68.75,7984
+10544,2025-04-15,Healthcare,Paid Search,Business,15,7485,2025-09-27,True,6.0,187.0,0.0,0.0,0.0,58.7,7485
+10545,2026-05-14,Manufacturing,Referral,Starter,2,158,,False,1.0,2.0,0.0,0.0,0.0,40.2,0
+10546,2025-02-02,Retail,Events,Starter,1,79,,False,5.0,14.0,0.0,0.0,0.0,41.4,0
+10547,2025-09-15,Manufacturing,Paid Search,Business,15,7485,,False,3.0,86.0,1.0,50.8,4.1,62.1,0
+10548,2025-12-21,Retail,Events,Business,20,9980,,False,7.0,276.0,3.0,38.53333333333333,3.6666666666666665,67.33333333333333,0
+10549,2025-11-06,Technology,Referral,Pro,7,1393,,False,7.0,101.0,2.0,73.5,3.9,60.6,0
+10550,2026-02-13,Technology,Partner,Business,35,17465,,False,6.0,404.0,0.0,0.0,0.0,60.0,0
+10551,2026-04-27,Technology,Paid Search,Starter,3,237,,False,1.0,9.0,0.0,0.0,0.0,40.9,0
+10552,2025-08-25,Manufacturing,Paid Search,Business,28,13972,,False,3.0,177.0,1.0,44.7,3.1,66.2,0
+10553,2026-05-12,Retail,Events,Starter,3,237,,False,3.0,13.0,0.0,0.0,0.0,41.3,0
+10554,2025-07-10,Professional Services,Paid Search,Starter,4,316,,False,4.0,28.0,1.0,89.0,3.6,53.8,0
+10555,2026-08-14,Retail,Events,Pro,9,1791,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10556,2025-10-30,Professional Services,Partner,Starter,5,395,,False,8.0,72.0,2.0,52.300000000000004,4.0,58.2,0
+10557,2026-03-18,Manufacturing,Organic,Starter,3,237,,False,1.0,3.0,2.0,9.9,3.55,49.05,0
+10558,2026-06-10,Manufacturing,Paid Search,Starter,4,316,,False,2.0,8.0,0.0,0.0,0.0,40.8,0
+10559,2026-04-21,Technology,Referral,Pro,9,1791,,False,1.0,17.0,1.0,39.4,3.9,54.2,0
+10560,2026-05-26,Healthcare,Events,Business,16,7984,,False,1.0,29.0,0.0,0.0,0.0,42.9,0
+10561,2025-11-18,Retail,Partner,Starter,3,237,,False,6.0,30.0,0.0,0.0,0.0,43.0,0
+10562,2025-01-27,Technology,Organic,Pro,17,3383,,False,6.0,230.0,3.0,48.833333333333336,2.8333333333333335,63.166666666666664,0
+10563,2025-10-23,Manufacturing,Organic,Business,16,7984,,False,4.0,108.0,2.0,30.299999999999997,4.550000000000001,64.55,0
+10564,2025-04-19,Technology,Organic,Starter,3,237,,False,6.0,39.0,2.0,26.8,3.75,53.65,0
+10565,2026-06-18,Professional Services,Referral,Starter,5,395,,False,1.0,11.0,0.0,0.0,0.0,41.1,0
+10566,2025-05-23,Technology,Organic,Business,27,13473,,False,9.0,497.0,4.0,32.6,3.7249999999999996,65.625,0
+10567,2025-05-17,Retail,Partner,Business,18,8982,,False,7.0,252.0,1.0,5.2,4.3,74.5,0
+10568,2025-05-30,Financial Services,Paid Search,Pro,3,597,,False,10.0,58.0,1.0,50.4,3.5,56.3,0
+10569,2026-01-21,Professional Services,Partner,Business,22,10978,,False,2.0,95.0,3.0,33.76666666666667,3.4000000000000004,55.5,0
+10570,2025-12-09,Technology,Organic,Starter,1,79,,False,4.0,9.0,2.0,30.450000000000003,3.1,47.4,0
+10571,2026-07-24,Technology,Paid Search,Starter,5,395,,False,2.0,21.0,0.0,0.0,0.0,42.1,0
+10572,2025-09-07,Manufacturing,Organic,Pro,8,1592,,False,5.0,88.0,1.0,35.4,3.8,60.8,0
+10573,2025-06-19,Healthcare,Events,Starter,4,316,,False,11.0,100.0,1.0,40.0,3.0,58.0,0
+10574,2025-01-30,Manufacturing,Organic,Business,13,6487,,False,3.0,73.0,1.0,51.5,2.2,51.3,0
+10575,2025-01-05,Financial Services,Organic,Pro,5,995,,False,8.0,87.0,0.0,0.0,0.0,48.7,0
+10576,2025-08-13,Financial Services,Organic,Business,20,9980,,False,10.0,414.0,1.0,87.2,3.4,70.0,0
+10577,2026-07-10,Healthcare,Partner,Pro,8,1592,,False,2.0,30.0,1.0,96.5,4.2,57.0,0
+10578,2025-11-11,Financial Services,Organic,Starter,3,237,,False,5.0,34.0,3.0,28.76666666666667,3.7999999999999994,51.4,0
+10579,2026-06-21,Retail,Paid Search,Starter,3,237,,False,1.0,5.0,0.0,0.0,0.0,40.5,0
+10580,2025-03-03,Professional Services,Partner,Starter,8,632,2025-05-12,True,0.0,0.0,2.0,19.950000000000003,3.7,49.5,632
+10581,2025-02-25,Retail,Partner,Business,24,11976,,False,10.0,479.0,3.0,29.099999999999998,4.0,69.0,0
+10582,2026-05-16,Technology,Organic,Starter,4,316,,False,3.0,24.0,1.0,31.8,4.7,58.9,0
+10583,2025-03-06,Professional Services,Organic,Starter,4,316,,False,4.0,29.0,1.0,7.5,2.8,49.9,0
+10584,2025-02-01,Healthcare,Referral,Starter,5,395,,False,8.0,77.0,1.0,22.5,4.9,65.2,0
+10585,2025-08-31,Manufacturing,Organic,Starter,3,237,,False,6.0,27.0,1.0,3.0,2.6,48.7,0
+10586,2026-07-09,Technology,Paid Search,Business,9,4491,,False,1.0,20.0,0.0,0.0,0.0,42.0,0
+10587,2026-02-18,Technology,Referral,Starter,3,237,,False,1.0,3.0,2.0,19.4,4.1,51.8,0
+10588,2025-03-01,Technology,Referral,Enterprise,60,77940,,False,8.0,989.0,2.0,53.45,3.65,69.25,0
+10589,2026-05-18,Healthcare,Organic,Starter,2,158,,False,3.0,9.0,0.0,0.0,0.0,40.9,0
+10590,2026-05-22,Professional Services,Paid Search,Pro,8,1592,,False,3.0,51.0,0.0,0.0,0.0,45.1,0
+10591,2026-04-26,Professional Services,Organic,Pro,6,1194,,False,1.0,11.0,1.0,5.1,3.3,50.6,0
+10592,2026-06-26,Technology,Paid Search,Starter,5,395,,False,2.0,28.0,0.0,0.0,0.0,42.8,0
+10593,2025-05-24,Manufacturing,Organic,Business,23,11477,,False,8.0,368.0,0.0,0.0,0.0,60.0,0
+10594,2026-08-11,Retail,Events,Enterprise,57,74043,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10595,2025-07-12,Healthcare,Paid Search,Business,22,10978,,False,9.0,377.0,2.0,25.75,4.05,71.25,0
+10596,2026-04-27,Healthcare,Organic,Starter,3,237,,False,3.0,20.0,0.0,0.0,0.0,42.0,0
+10597,2025-12-14,Technology,Organic,Starter,3,237,,False,2.0,14.0,3.0,27.666666666666668,3.9,49.9,0
+10598,2026-04-13,Healthcare,Referral,Pro,5,995,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10599,2026-01-12,Financial Services,Organic,Starter,1,79,,False,2.0,10.0,0.0,0.0,0.0,41.0,0
+10600,2026-01-21,Financial Services,Organic,Pro,8,1592,,False,6.0,103.0,0.0,0.0,0.0,50.3,0
+10601,2026-01-05,Professional Services,Partner,Pro,9,1791,,False,3.0,70.0,0.0,0.0,0.0,47.0,0
+10602,2026-04-13,Manufacturing,Paid Search,Pro,12,2388,,False,3.0,68.0,2.0,29.9,3.35,54.55,0
+10603,2026-03-20,Manufacturing,Organic,Business,31,15469,,False,4.0,232.0,0.0,0.0,0.0,60.0,0
+10604,2025-03-22,Retail,Paid Search,Pro,14,2786,,False,11.0,293.0,1.0,23.5,4.6,76.0,0
+10605,2026-05-11,Technology,Organic,Starter,2,158,,False,0.0,0.0,1.0,28.8,3.1,48.5,0
+10606,2025-11-18,Manufacturing,Events,Starter,3,237,,False,7.0,42.0,1.0,6.8,3.6,55.2,0
+10607,2025-07-13,Manufacturing,Organic,Pro,9,1791,,False,10.0,217.0,1.0,38.1,3.4,70.0,0
+10608,2025-11-05,Financial Services,Partner,Pro,19,3781,2026-06-25,True,5.0,206.0,1.0,7.2,4.4,75.0,3781
+10609,2026-08-04,Financial Services,Partner,Starter,5,395,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10610,2026-05-30,Professional Services,Organic,Starter,4,316,,False,3.0,25.0,0.0,0.0,0.0,42.5,0
+10611,2026-05-16,Technology,Organic,Business,16,7984,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10612,2025-10-05,Manufacturing,Referral,Business,13,6487,2026-03-07,True,1.0,27.0,4.0,37.1,3.875,49.075,6487
+10613,2026-04-16,Retail,Partner,Pro,11,2189,,False,1.0,26.0,1.0,30.7,3.6,53.6,0
+10614,2025-08-20,Professional Services,Paid Search,Starter,2,158,,False,6.0,20.0,1.0,97.2,4.1,55.5,0
+10615,2026-02-16,Healthcare,Paid Search,Starter,3,237,,False,2.0,18.0,4.0,50.525,3.925,48.425,0
+10616,2026-01-19,Technology,Partner,Pro,8,1592,,False,6.0,81.0,1.0,22.3,4.2,62.1,0
+10617,2025-05-30,Technology,Partner,Starter,5,395,2025-09-14,True,3.0,32.0,2.0,18.85,3.55,51.95,395
+10618,2025-06-09,Professional Services,Referral,Pro,7,1393,,False,5.0,70.0,3.0,32.733333333333334,3.733333333333333,54.666666666666664,0
+10619,2025-02-06,Retail,Paid Search,Pro,3,597,,False,3.0,22.0,2.0,21.549999999999997,3.55,50.95,0
+10620,2025-03-25,Retail,Paid Search,Starter,4,316,,False,10.0,82.0,1.0,5.0,4.3,62.7,0
+10621,2025-09-18,Professional Services,Organic,Starter,2,158,,False,8.0,41.0,0.0,0.0,0.0,44.1,0
+10622,2025-10-14,Retail,Partner,Starter,3,237,,False,5.0,33.0,0.0,0.0,0.0,43.3,0
+10623,2025-04-10,Retail,Organic,Business,17,8483,,False,7.0,203.0,1.0,64.2,2.8,67.0,0
+10624,2025-09-08,Financial Services,Organic,Pro,7,1393,,False,7.0,99.0,1.0,51.8,3.9,62.4,0
+10625,2025-12-29,Financial Services,Partner,Starter,4,316,,False,7.0,45.0,1.0,52.0,2.9,52.0,0
+10626,2025-05-20,Manufacturing,Referral,Business,11,5489,,False,7.0,136.0,5.0,33.5,3.5799999999999996,56.5,0
+10627,2025-07-22,Healthcare,Organic,Pro,7,1393,,False,6.0,76.0,0.0,0.0,0.0,47.6,0
+10628,2025-08-09,Professional Services,Organic,Pro,10,1990,,False,2.0,44.0,2.0,47.2,3.35,52.15,0
+10629,2025-10-31,Manufacturing,Paid Search,Business,15,7485,,False,5.0,152.0,2.0,40.2,3.55,63.95,0
+10630,2025-08-08,Financial Services,Partner,Starter,2,158,,False,11.0,45.0,3.0,20.866666666666667,3.6,51.5,0
+10631,2026-03-19,Professional Services,Organic,Starter,4,316,,False,3.0,13.0,1.0,71.3,4.7,57.8,0
+10632,2025-07-16,Retail,Organic,Pro,12,2388,,False,9.0,197.0,5.0,32.2,3.5,62.2,0
+10633,2025-09-18,Healthcare,Referral,Starter,3,237,,False,6.0,41.0,1.0,50.8,3.8,56.1,0
+10634,2025-08-16,Healthcare,Events,Pro,4,796,,False,8.0,52.0,4.0,28.15,3.925,51.825,0
+10635,2025-04-20,Retail,Organic,Starter,4,316,,False,10.0,79.0,1.0,20.0,4.7,64.4,0
+10636,2026-02-16,Technology,Events,Starter,2,158,2026-07-29,True,1.0,5.0,0.0,0.0,0.0,40.5,158
+10637,2025-05-22,Professional Services,Events,Starter,3,237,,False,6.0,34.0,5.0,38.239999999999995,3.7600000000000002,47.2,0
+10638,2025-06-28,Technology,Referral,Pro,6,1194,,False,8.0,97.0,3.0,58.56666666666666,3.3333333333333335,55.36666666666667,0
+10639,2026-04-21,Healthcare,Partner,Starter,2,158,,False,3.0,15.0,0.0,0.0,0.0,41.5,0
+10640,2026-07-24,Financial Services,Paid Search,Starter,3,237,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10641,2026-02-07,Retail,Paid Search,Business,17,8483,,False,5.0,169.0,3.0,52.73333333333334,3.633333333333333,64.06666666666666,0
+10642,2026-07-04,Healthcare,Referral,Starter,2,158,,False,1.0,9.0,0.0,0.0,0.0,40.9,0
+10643,2026-05-28,Healthcare,Partner,Starter,4,316,,False,2.0,11.0,2.0,29.9,3.95,51.85,0
+10644,2025-10-16,Healthcare,Partner,Starter,3,237,,False,7.0,37.0,1.0,17.5,3.1,52.2,0
+10645,2026-04-08,Technology,Partner,Starter,4,316,,False,2.0,10.0,2.0,27.950000000000003,3.75,50.75,0
+10646,2025-07-17,Financial Services,Events,Starter,3,237,,False,5.0,32.0,0.0,0.0,0.0,43.2,0
+10647,2025-10-04,Manufacturing,Referral,Pro,6,1194,,False,7.0,84.0,1.0,46.8,3.1,56.9,0
+10648,2025-11-18,Healthcare,Partner,Starter,2,158,,False,3.0,12.0,2.0,93.9,3.65,50.45,0
+10649,2026-07-31,Professional Services,Partner,Business,10,4990,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10650,2026-05-25,Retail,Organic,Business,20,9980,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10651,2025-10-21,Manufacturing,Organic,Starter,3,237,,False,5.0,20.0,2.0,14.8,3.05,48.25,0
+10652,2026-01-27,Technology,Referral,Starter,1,79,,False,2.0,11.0,1.0,9.9,4.1,54.6,0
+10653,2025-05-02,Financial Services,Partner,Starter,2,158,,False,4.0,17.0,0.0,0.0,0.0,41.7,0
+10654,2026-04-28,Technology,Referral,Pro,6,1194,,False,1.0,10.0,0.0,0.0,0.0,41.0,0
+10655,2025-11-28,Manufacturing,Paid Search,Starter,5,395,,False,7.0,60.0,1.0,15.8,3.4,56.0,0
+10656,2025-11-16,Technology,Organic,Business,10,4990,,False,5.0,93.0,3.0,10.666666666666666,4.3,59.8,0
+10657,2026-04-05,Technology,Referral,Business,11,5489,,False,4.0,94.0,0.0,0.0,0.0,49.4,0
+10658,2026-01-15,Professional Services,Paid Search,Business,27,13473,,False,2.0,114.0,1.0,101.3,2.3,55.9,0
+10659,2025-02-13,Professional Services,Organic,Pro,13,2587,,False,7.0,187.0,0.0,0.0,0.0,58.7,0
+10660,2025-06-22,Retail,Events,Enterprise,35,45465,,False,6.0,448.0,0.0,0.0,0.0,60.0,0
+10661,2025-04-17,Professional Services,Organic,Starter,2,158,,False,8.0,36.0,7.0,42.471428571428575,3.6857142857142855,45.02857142857143,0
+10662,2026-03-17,Retail,Events,Starter,4,316,,False,3.0,31.0,0.0,0.0,0.0,43.1,0
+10663,2025-01-22,Financial Services,Organic,Starter,1,79,2025-05-18,True,1.0,3.0,2.0,24.200000000000003,3.5999999999999996,49.3,79
+10664,2025-05-02,Financial Services,Events,Enterprise,23,29877,,False,11.0,494.0,1.0,39.1,2.9,67.5,0
+10665,2025-12-25,Manufacturing,Paid Search,Pro,7,1393,,False,9.0,104.0,1.0,35.3,3.9,62.9,0
+10666,2026-02-21,Retail,Organic,Business,31,15469,,False,1.0,59.0,2.0,29.7,3.95,56.65,0
+10667,2025-10-29,Financial Services,Organic,Starter,3,237,,False,5.0,25.0,1.0,40.8,3.1,51.0,0
+10668,2026-06-01,Healthcare,Organic,Enterprise,47,61053,,False,1.0,97.0,0.0,0.0,0.0,49.7,0
+10669,2026-07-06,Professional Services,Paid Search,Pro,12,2388,,False,1.0,24.0,2.0,42.15,3.05,48.65,0
+10670,2025-03-21,Healthcare,Partner,Pro,17,3383,,False,6.0,199.0,2.0,37.5,3.0999999999999996,66.4,0
+10671,2026-07-26,Manufacturing,Referral,Enterprise,37,48063,,False,3.0,222.0,1.0,36.6,4.0,73.0,0
+10672,2026-01-04,Professional Services,Referral,Starter,3,237,,False,6.0,29.0,0.0,0.0,0.0,42.9,0
+10673,2026-01-17,Professional Services,Paid Search,Starter,6,474,,False,7.0,83.0,4.0,65.625,3.775,54.175,0
+10674,2025-02-27,Retail,Paid Search,Pro,5,995,,False,7.0,75.0,1.0,24.7,3.8,59.5,0
+10675,2026-01-09,Professional Services,Paid Search,Starter,4,316,,False,6.0,53.0,3.0,33.5,4.5,56.8,0
+10676,2026-03-12,Financial Services,Referral,Starter,2,158,,False,6.0,17.0,1.0,31.9,3.7,53.2,0
+10677,2025-12-15,Manufacturing,Paid Search,Starter,3,237,,False,6.0,36.0,4.0,37.425,3.375,47.475,0
+10678,2025-02-20,Financial Services,Events,Starter,3,237,,False,7.0,37.0,1.0,37.4,3.2,52.7,0
+10679,2025-11-10,Technology,Referral,Business,13,6487,,False,7.0,203.0,4.0,33.85,3.575,64.875,0
+10680,2026-07-16,Professional Services,Organic,Pro,6,1194,,False,1.0,15.0,0.0,0.0,0.0,41.5,0
+10681,2026-03-11,Healthcare,Organic,Starter,3,237,,False,3.0,11.0,1.0,20.4,3.7,52.6,0
+10682,2025-03-24,Professional Services,Paid Search,Starter,4,316,,False,6.0,53.0,2.0,26.700000000000003,3.5,53.8,0
+10683,2026-07-30,Financial Services,Referral,Pro,8,1592,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10684,2026-07-30,Healthcare,Events,Pro,8,1592,,False,0.0,0.0,1.0,43.4,2.9,47.5,0
+10685,2025-04-12,Professional Services,Paid Search,Business,22,10978,,False,9.0,372.0,0.0,0.0,0.0,60.0,0
+10686,2026-04-26,Financial Services,Paid Search,Business,13,6487,,False,2.0,44.0,0.0,0.0,0.0,44.4,0
+10687,2025-09-02,Retail,Partner,Starter,4,316,,False,8.0,66.0,1.0,22.6,3.6,57.6,0
+10688,2025-12-23,Technology,Organic,Starter,4,316,,False,5.0,50.0,2.0,22.2,4.35,57.75,0
+10689,2025-09-25,Retail,Partner,Pro,20,3980,,False,4.0,157.0,5.0,32.42,3.7,59.2,0
+10690,2026-04-15,Retail,Organic,Pro,7,1393,,False,2.0,26.0,2.0,48.55,3.4000000000000004,50.6,0
+10691,2026-08-21,Technology,Paid Search,Pro,7,1393,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10692,2026-04-23,Manufacturing,Events,Pro,10,1990,,False,0.0,0.0,4.0,44.575,4.525,49.625,0
+10693,2026-07-13,Financial Services,Partner,Pro,11,2189,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10694,2026-07-22,Technology,Partner,Starter,2,158,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10695,2025-02-24,Manufacturing,Referral,Starter,3,237,,False,3.0,18.0,3.0,43.300000000000004,3.4,47.8,0
+10696,2025-06-02,Manufacturing,Partner,Starter,4,316,,False,11.0,75.0,5.0,48.68,3.78,51.4,0
+10697,2026-03-10,Technology,Paid Search,Starter,2,158,,False,3.0,15.0,2.0,28.1,3.3,49.0,0
+10698,2025-12-21,Technology,Paid Search,Starter,3,237,,False,2.0,10.0,0.0,0.0,0.0,41.0,0
+10699,2025-01-31,Retail,Organic,Pro,8,1592,,False,8.0,116.0,6.0,22.916666666666668,4.233333333333333,55.766666666666666,0
+10700,2025-02-27,Financial Services,Organic,Starter,4,316,,False,10.0,105.0,0.0,0.0,0.0,50.5,0
+10701,2025-11-09,Healthcare,Paid Search,Starter,2,158,,False,5.0,14.0,3.0,26.3,3.8000000000000003,49.4,0
+10702,2026-01-05,Retail,Organic,Pro,4,796,,False,4.0,25.0,4.0,44.475,3.5,47.0,0
+10703,2025-04-11,Financial Services,Partner,Business,9,4491,,False,8.0,126.0,0.0,0.0,0.0,52.6,0
+10704,2025-04-13,Technology,Partner,Starter,2,158,,False,9.0,45.0,4.0,37.8,3.15,47.25,0
+10705,2025-03-19,Financial Services,Events,Business,11,5489,,False,7.0,169.0,0.0,0.0,0.0,56.900000000000006,0
+10706,2025-12-05,Manufacturing,Organic,Business,17,8483,,False,5.0,161.0,1.0,18.3,4.4,71.1,0
+10707,2025-01-05,Financial Services,Events,Pro,5,995,,False,10.0,97.0,0.0,0.0,0.0,49.7,0
+10708,2025-12-10,Retail,Organic,Pro,6,1194,,False,6.0,60.0,3.0,56.76666666666667,2.966666666666667,49.833333333333336,0
+10709,2025-10-13,Professional Services,Referral,Starter,2,158,,False,8.0,32.0,1.0,27.4,4.3,57.7,0
+10710,2025-10-07,Manufacturing,Partner,Enterprise,39,50661,,False,9.0,725.0,2.0,37.9,3.65,69.25,0
+10711,2026-02-12,Technology,Organic,Starter,5,395,,False,3.0,32.0,4.0,41.075,4.0,50.2,0
+10712,2025-11-10,Professional Services,Organic,Business,23,11477,,False,6.0,295.0,0.0,0.0,0.0,60.0,0
+10713,2026-03-13,Technology,Organic,Pro,8,1592,,False,6.0,75.0,3.0,30.933333333333334,4.066666666666666,56.83333333333333,0
+10714,2026-04-04,Manufacturing,Paid Search,Starter,3,237,,False,5.0,25.0,1.0,39.9,4.4,57.5,0
+10715,2026-07-07,Retail,Partner,Starter,3,237,,False,2.0,9.0,0.0,0.0,0.0,40.9,0
+10716,2026-04-25,Manufacturing,Organic,Pro,9,1791,,False,1.0,25.0,0.0,0.0,0.0,42.5,0
+10717,2025-11-07,Financial Services,Organic,Pro,10,1990,,False,8.0,141.0,0.0,0.0,0.0,54.099999999999994,0
+10718,2025-10-23,Financial Services,Paid Search,Starter,2,158,,False,11.0,46.0,1.0,50.2,3.4,54.6,0
+10719,2025-05-22,Financial Services,Organic,Business,18,8982,,False,10.0,389.0,7.0,12.014285714285714,3.5,60.5,0
+10720,2025-12-26,Professional Services,Partner,Business,9,4491,,False,4.0,67.0,1.0,18.9,2.8,53.7,0
+10721,2025-03-25,Financial Services,Events,Pro,9,1791,,False,6.0,100.0,3.0,28.066666666666663,4.066666666666666,59.33333333333333,0
+10722,2026-07-13,Healthcare,Partner,Pro,10,1990,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10723,2026-05-23,Manufacturing,Partner,Starter,3,237,,False,1.0,6.0,2.0,51.400000000000006,3.45,48.85,0
+10724,2025-03-13,Financial Services,Paid Search,Business,34,16966,,False,11.0,749.0,6.0,44.63333333333333,3.9166666666666665,62.58333333333333,0
+10725,2026-04-17,Manufacturing,Partner,Starter,2,158,,False,1.0,4.0,2.0,10.05,4.199999999999999,52.39999999999999,0
+10726,2025-03-12,Manufacturing,Organic,Business,19,9481,,False,6.0,232.0,1.0,35.0,3.3,69.5,0
+10727,2026-03-09,Financial Services,Organic,Starter,3,237,,False,2.0,14.0,0.0,0.0,0.0,41.4,0
+10728,2025-02-22,Retail,Paid Search,Pro,8,1592,,False,3.0,49.0,4.0,41.275,3.425,49.025,0
+10729,2025-10-20,Technology,Organic,Starter,3,237,,False,1.0,11.0,2.0,49.7,3.8,51.1,0
+10730,2026-01-30,Professional Services,Events,Starter,3,237,,False,3.0,16.0,3.0,18.0,3.4333333333333336,47.766666666666666,0
+10731,2026-03-14,Manufacturing,Paid Search,Business,24,11976,,False,2.0,107.0,0.0,0.0,0.0,50.7,0
+10732,2025-09-09,Technology,Events,Pro,13,2587,,False,5.0,136.0,2.0,30.85,4.5,67.1,0
+10733,2026-07-07,Retail,Referral,Pro,8,1592,,False,1.0,13.0,0.0,0.0,0.0,41.3,0
+10734,2026-04-10,Healthcare,Referral,Enterprise,60,77940,,False,4.0,475.0,1.0,24.0,2.8,67.0,0
+10735,2025-05-05,Professional Services,Partner,Enterprise,35,45465,,False,3.0,204.0,5.0,49.22,3.9799999999999995,64.89999999999999,0
+10736,2026-02-07,Manufacturing,Organic,Business,24,11976,,False,2.0,95.0,0.0,0.0,0.0,49.5,0
+10737,2026-03-15,Financial Services,Paid Search,Starter,2,158,,False,1.0,4.0,0.0,0.0,0.0,40.4,0
+10738,2025-07-20,Technology,Paid Search,Pro,12,2388,,False,7.0,165.0,0.0,0.0,0.0,56.5,0
+10739,2026-03-19,Professional Services,Events,Business,39,19461,,False,2.0,138.0,1.0,22.4,4.5,69.3,0
+10740,2026-06-24,Healthcare,Partner,Starter,3,237,,False,2.0,10.0,0.0,0.0,0.0,41.0,0
+10741,2026-05-06,Manufacturing,Organic,Starter,1,79,,False,4.0,11.0,0.0,0.0,0.0,41.1,0
+10742,2026-04-03,Manufacturing,Referral,Business,15,7485,,False,5.0,140.0,0.0,0.0,0.0,54.0,0
+10743,2026-01-16,Manufacturing,Paid Search,Pro,12,2388,2026-06-11,True,2.0,42.0,0.0,0.0,0.0,44.2,2388
+10744,2025-06-12,Technology,Organic,Pro,10,1990,,False,11.0,207.0,1.0,9.0,4.8,77.0,0
+10745,2026-04-23,Healthcare,Referral,Enterprise,49,63651,,False,5.0,489.0,0.0,0.0,0.0,60.0,0
+10746,2025-08-07,Technology,Referral,Pro,11,2189,,False,3.0,66.0,4.0,24.725,3.85,52.85,0
+10747,2025-11-16,Technology,Organic,Pro,9,1791,,False,5.0,88.0,2.0,32.6,4.1,60.3,0
+10748,2025-07-08,Healthcare,Paid Search,Starter,5,395,,False,11.0,122.0,8.0,26.7125,3.95,54.95,0
+10749,2025-07-07,Retail,Organic,Starter,4,316,,False,10.0,69.0,4.0,48.349999999999994,4.175,54.775,0
+10750,2025-04-05,Financial Services,Paid Search,Starter,5,395,,False,6.0,52.0,2.0,81.19999999999999,3.5,53.7,0
+10751,2026-07-31,Manufacturing,Organic,Business,20,9980,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10752,2025-03-30,Technology,Partner,Business,25,12475,,False,10.0,471.0,1.0,102.4,3.4,70.0,0
+10753,2025-02-21,Financial Services,Organic,Starter,3,237,,False,9.0,50.0,6.0,33.88333333333333,3.85,47.25,0
+10754,2026-07-16,Manufacturing,Events,Starter,2,158,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10755,2025-11-30,Retail,Organic,Business,33,16467,,False,5.0,345.0,1.0,47.6,2.5,65.5,0
+10756,2025-09-20,Financial Services,Paid Search,Starter,3,237,,False,6.0,25.0,3.0,31.8,4.0,51.5,0
+10757,2026-03-19,Retail,Referral,Pro,11,2189,,False,5.0,98.0,2.0,28.349999999999998,3.45,58.05,0
+10758,2025-08-18,Manufacturing,Organic,Pro,8,1592,,False,8.0,136.0,3.0,30.03333333333333,3.733333333333333,61.266666666666666,0
+10759,2025-03-18,Technology,Referral,Pro,7,1393,2026-07-03,True,8.0,109.0,2.0,40.25,3.85,61.15,1393
+10760,2026-03-14,Manufacturing,Partner,Starter,3,237,,False,4.0,25.0,1.0,29.4,4.8,59.5,0
+10761,2025-04-16,Healthcare,Events,Pro,13,2587,,False,3.0,70.0,5.0,22.0,3.7399999999999998,50.699999999999996,0
+10762,2025-11-28,Healthcare,Referral,Starter,4,316,,False,4.0,33.0,1.0,62.5,3.7,54.8,0
+10763,2026-07-24,Retail,Organic,Pro,4,796,,False,2.0,18.0,0.0,0.0,0.0,41.8,0
+10764,2026-07-16,Financial Services,Partner,Starter,3,237,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10765,2025-08-05,Retail,Paid Search,Pro,15,2985,,False,10.0,297.0,2.0,74.4,3.75,69.75,0
+10766,2026-04-14,Professional Services,Organic,Pro,7,1393,,False,2.0,25.0,2.0,14.65,3.95,53.25,0
+10767,2026-01-03,Manufacturing,Partner,Starter,2,158,,False,1.0,5.0,2.0,21.25,3.8,50.5,0
+10768,2025-10-15,Financial Services,Paid Search,Starter,6,474,,False,8.0,112.0,4.0,19.225,3.475,55.575,0
+10769,2025-03-25,Healthcare,Paid Search,Starter,4,316,,False,10.0,73.0,5.0,26.419999999999998,3.8,51.3,0
+10770,2025-08-14,Technology,Referral,Starter,3,237,,False,5.0,28.0,3.0,33.36666666666667,4.2,52.8,0
+10771,2026-01-27,Healthcare,Referral,Starter,3,237,,False,3.0,10.0,0.0,0.0,0.0,41.0,0
+10772,2026-08-15,Financial Services,Organic,Enterprise,66,85734,,False,0.0,0.0,1.0,18.9,3.7,51.5,0
+10773,2025-01-03,Manufacturing,Partner,Starter,2,158,2025-08-23,True,5.0,30.0,1.0,13.7,4.0,56.0,158
+10774,2026-03-07,Technology,Organic,Business,27,13473,,False,6.0,293.0,1.0,43.3,3.4,70.0,0
+10775,2026-05-23,Financial Services,Partner,Enterprise,54,70146,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10776,2026-07-25,Financial Services,Partner,Starter,3,237,,False,1.0,4.0,1.0,26.0,4.6,56.4,0
+10777,2025-09-12,Financial Services,Partner,Pro,8,1592,,False,3.0,62.0,0.0,0.0,0.0,46.2,0
+10778,2025-03-13,Technology,Organic,Business,17,8483,,False,4.0,126.0,8.0,62.5375,3.4499999999999997,52.85,0
+10779,2025-06-12,Retail,Organic,Pro,12,2388,,False,4.0,102.0,0.0,0.0,0.0,50.2,0
+10780,2026-05-26,Professional Services,Referral,Pro,6,1194,,False,4.0,41.0,0.0,0.0,0.0,44.1,0
+10781,2026-06-11,Financial Services,Paid Search,Pro,5,995,,False,1.0,8.0,1.0,31.6,4.1,54.3,0
+10782,2026-01-18,Professional Services,Events,Starter,4,316,,False,3.0,25.0,0.0,0.0,0.0,42.5,0
+10783,2025-03-15,Retail,Referral,Pro,10,1990,2026-02-05,True,5.0,91.0,1.0,38.4,3.5,59.6,1990
+10784,2025-03-15,Financial Services,Partner,Enterprise,53,68847,,False,7.0,731.0,1.0,55.9,2.5,65.5,0
+10785,2025-10-14,Technology,Organic,Enterprise,52,67548,,False,6.0,639.0,3.0,27.833333333333332,4.233333333333333,70.16666666666667,0
+10786,2025-12-19,Healthcare,Referral,Starter,3,237,,False,1.0,3.0,2.0,55.4,2.85,45.55,0
+10787,2025-01-20,Healthcare,Organic,Pro,11,2189,,False,11.0,252.0,1.0,95.8,3.3,69.5,0
+10788,2026-02-16,Technology,Partner,Starter,3,237,,False,2.0,11.0,2.0,45.75,3.55,49.85,0
+10789,2025-11-23,Technology,Organic,Business,15,7485,2026-03-08,True,1.0,38.0,1.0,22.6,4.0,56.8,7485
+10790,2025-01-08,Manufacturing,Organic,Starter,3,237,,False,9.0,50.0,2.0,35.9,3.35,52.75,0
+10791,2025-02-27,Professional Services,Partner,Business,37,18463,2025-05-08,True,2.0,155.0,1.0,69.7,3.6,66.5,18463
+10792,2025-09-30,Manufacturing,Paid Search,Business,10,4990,,False,2.0,50.0,0.0,0.0,0.0,45.0,0
+10793,2026-03-10,Retail,Organic,Starter,4,316,,False,5.0,28.0,1.0,53.7,2.9,50.3,0
+10794,2026-05-11,Retail,Organic,Starter,2,158,,False,1.0,5.0,0.0,0.0,0.0,40.5,0
+10795,2025-09-16,Professional Services,Paid Search,Business,17,8483,2026-01-29,True,1.0,28.0,2.0,21.45,4.25,55.05,8483
+10796,2025-06-27,Financial Services,Referral,Starter,3,237,,False,6.0,41.0,4.0,44.25,3.9749999999999996,50.975,0
+10797,2026-08-04,Technology,Organic,Pro,4,796,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10798,2025-10-03,Retail,Paid Search,Business,21,10479,,False,5.0,201.0,1.0,92.7,3.4,70.0,0
+10799,2025-07-09,Retail,Organic,Pro,7,1393,,False,6.0,91.0,0.0,0.0,0.0,49.1,0
+10800,2025-09-23,Technology,Paid Search,Starter,1,79,,False,4.0,9.0,1.0,32.9,4.4,55.9,0
+10801,2025-01-08,Retail,Referral,Pro,11,2189,,False,3.0,75.0,3.0,34.4,3.533333333333333,54.166666666666664,0
+10802,2025-07-01,Financial Services,Organic,Starter,5,395,,False,3.0,29.0,0.0,0.0,0.0,42.9,0
+10803,2025-11-06,Healthcare,Organic,Enterprise,76,98724,,False,5.0,712.0,0.0,0.0,0.0,60.0,0
+10804,2026-07-06,Technology,Organic,Starter,3,237,,False,3.0,21.0,0.0,0.0,0.0,42.1,0
+10805,2026-03-19,Manufacturing,Organic,Starter,3,237,,False,3.0,14.0,2.0,32.45,3.3499999999999996,49.15,0
+10806,2026-04-14,Manufacturing,Referral,Starter,5,395,,False,2.0,22.0,1.0,41.6,4.0,55.2,0
+10807,2025-11-23,Healthcare,Events,Enterprise,81,105219,,False,4.0,668.0,3.0,30.333333333333332,3.4333333333333336,66.16666666666667,0
+10808,2025-03-08,Manufacturing,Partner,Starter,4,316,,False,5.0,40.0,0.0,0.0,0.0,44.0,0
+10809,2025-08-23,Retail,Referral,Business,13,6487,,False,3.0,62.0,0.0,0.0,0.0,46.2,0
+10810,2026-08-22,Healthcare,Paid Search,Pro,9,1791,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10811,2025-01-27,Healthcare,Paid Search,Business,21,10479,,False,11.0,440.0,1.0,29.9,3.9,72.5,0
+10812,2026-06-12,Financial Services,Partner,Enterprise,24,31176,,False,1.0,59.0,0.0,0.0,0.0,45.9,0
+10813,2026-02-15,Professional Services,Organic,Business,21,10479,,False,4.0,163.0,1.0,35.5,4.2,70.3,0
+10814,2025-06-20,Financial Services,Referral,Enterprise,100,129900,,False,8.0,1587.0,2.0,39.95,4.4,73.0,0
+10815,2026-04-12,Manufacturing,Referral,Starter,4,316,,False,2.0,14.0,0.0,0.0,0.0,41.4,0
+10816,2026-05-18,Manufacturing,Organic,Business,30,14970,,False,0.0,0.0,1.0,31.0,3.6,51.0,0
+10817,2025-01-26,Retail,Referral,Pro,9,1791,,False,11.0,198.0,3.0,38.699999999999996,3.8000000000000003,67.8,0
+10818,2025-03-05,Professional Services,Partner,Pro,8,1592,,False,10.0,170.0,3.0,20.0,3.3666666666666667,62.833333333333336,0
+10819,2026-02-04,Healthcare,Events,Business,21,10479,,False,4.0,171.0,0.0,0.0,0.0,57.099999999999994,0
+10820,2026-08-23,Technology,Organic,Enterprise,34,44166,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10821,2025-01-15,Technology,Referral,Pro,6,1194,,False,10.0,134.0,0.0,0.0,0.0,53.4,0
+10822,2026-02-04,Financial Services,Referral,Pro,12,2388,,False,2.0,44.0,1.0,13.0,5.0,62.4,0
+10823,2025-03-23,Manufacturing,Referral,Pro,13,2587,,False,11.0,280.0,1.0,21.7,3.7,71.5,0
+10824,2026-01-26,Professional Services,Paid Search,Starter,2,158,,False,1.0,4.0,0.0,0.0,0.0,40.4,0
+10825,2026-01-09,Retail,Organic,Starter,4,316,,False,3.0,17.0,3.0,20.900000000000002,4.1000000000000005,51.2,0
+10826,2025-02-24,Professional Services,Partner,Starter,3,237,,False,6.0,40.0,0.0,0.0,0.0,44.0,0
+10827,2026-02-13,Retail,Events,Starter,3,237,,False,4.0,24.0,0.0,0.0,0.0,42.4,0
+10828,2026-06-23,Technology,Paid Search,Starter,4,316,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10829,2026-06-03,Financial Services,Paid Search,Business,25,12475,,False,1.0,59.0,0.0,0.0,0.0,45.9,0
+10830,2025-01-18,Financial Services,Paid Search,Pro,8,1592,,False,3.0,52.0,2.0,26.65,4.3,57.7,0
+10831,2025-05-28,Professional Services,Referral,Business,29,14471,2025-11-29,True,4.0,211.0,0.0,0.0,0.0,60.0,14471
+10832,2025-05-25,Professional Services,Organic,Pro,9,1791,,False,6.0,112.0,2.0,39.2,4.4,64.2,0
+10833,2025-09-29,Healthcare,Paid Search,Starter,4,316,,False,7.0,52.0,1.0,8.2,3.5,55.7,0
+10834,2025-03-27,Professional Services,Organic,Starter,2,158,,False,6.0,20.0,6.0,59.71666666666666,3.966666666666667,44.833333333333336,0
+10835,2026-05-28,Technology,Partner,Starter,6,474,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10836,2026-04-12,Technology,Referral,Enterprise,53,68847,,False,5.0,506.0,1.0,71.2,2.2,64.0,0
+10837,2026-05-01,Manufacturing,Referral,Starter,4,316,,False,0.0,0.0,2.0,22.049999999999997,3.9,50.5,0
+10838,2025-04-29,Retail,Referral,Pro,5,995,2026-05-24,True,9.0,92.0,3.0,24.96666666666667,3.933333333333333,57.86666666666667,995
+10839,2025-01-09,Technology,Events,Business,13,6487,,False,6.0,145.0,1.0,41.8,4.0,67.5,0
+10840,2026-07-01,Manufacturing,Organic,Enterprise,69,89631,,False,0.0,0.0,1.0,55.2,4.2,54.0,0
+10841,2025-06-23,Technology,Organic,Starter,3,237,,False,5.0,30.0,0.0,0.0,0.0,43.0,0
+10842,2026-01-29,Retail,Organic,Starter,2,158,,False,4.0,21.0,0.0,0.0,0.0,42.1,0
+10843,2026-06-30,Technology,Paid Search,Starter,4,316,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10844,2025-01-22,Healthcare,Events,Starter,2,158,,False,5.0,22.0,1.0,26.1,3.5,52.7,0
+10845,2025-01-04,Healthcare,Organic,Starter,5,395,,False,9.0,84.0,2.0,36.9,4.5,61.9,0
+10846,2025-01-04,Healthcare,Events,Pro,8,1592,,False,10.0,139.0,6.0,26.53333333333333,3.483333333333333,54.31666666666666,0
+10847,2025-04-04,Professional Services,Organic,Business,19,9481,,False,9.0,351.0,2.0,21.1,4.65,74.25,0
+10848,2025-01-31,Professional Services,Paid Search,Pro,12,2388,,False,8.0,187.0,3.0,15.266666666666666,3.6666666666666665,66.03333333333333,0
+10849,2026-05-07,Manufacturing,Organic,Pro,6,1194,,False,4.0,48.0,1.0,16.5,3.7,56.3,0
+10850,2025-12-30,Healthcare,Referral,Starter,2,158,,False,2.0,8.0,4.0,17.875,4.3,49.3,0
+10851,2026-08-12,Technology,Paid Search,Business,17,8483,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10852,2026-04-26,Healthcare,Paid Search,Pro,11,2189,,False,2.0,52.0,0.0,0.0,0.0,45.2,0
+10853,2026-08-01,Healthcare,Organic,Business,11,5489,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10854,2025-05-24,Financial Services,Partner,Enterprise,25,32475,,False,8.0,435.0,1.0,53.8,4.3,74.5,0
+10855,2025-06-22,Financial Services,Events,Starter,4,316,,False,5.0,42.0,4.0,22.7,3.75,49.95,0
+10856,2026-05-25,Technology,Referral,Starter,2,158,,False,1.0,4.0,1.0,99.0,4.4,55.4,0
+10857,2025-05-27,Technology,Paid Search,Starter,3,237,,False,5.0,29.0,0.0,0.0,0.0,42.9,0
+10858,2025-02-04,Technology,Partner,Pro,4,796,,False,8.0,65.0,2.0,52.55,4.0,57.5,0
+10859,2026-02-06,Technology,Organic,Enterprise,35,45465,,False,6.0,422.0,1.0,29.2,4.3,74.5,0
+10860,2026-04-26,Manufacturing,Partner,Starter,3,237,,False,3.0,17.0,0.0,0.0,0.0,41.7,0
+10861,2026-08-04,Financial Services,Referral,Business,25,12475,,False,2.0,97.0,1.0,35.3,3.4,59.7,0
+10862,2026-07-11,Healthcare,Partner,Pro,6,1194,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10863,2025-03-14,Professional Services,Organic,Starter,5,395,,False,5.0,57.0,1.0,16.0,4.2,59.7,0
+10864,2026-04-09,Manufacturing,Referral,Starter,2,158,,False,2.0,7.0,0.0,0.0,0.0,40.7,0
+10865,2026-05-23,Professional Services,Paid Search,Pro,6,1194,,False,4.0,44.0,1.0,37.0,3.5,54.9,0
+10866,2026-02-23,Manufacturing,Paid Search,Pro,14,2786,,False,1.0,28.0,2.0,32.15,3.25,50.05,0
+10867,2026-05-07,Technology,Partner,Pro,9,1791,,False,2.0,37.0,0.0,0.0,0.0,43.7,0
+10868,2026-05-18,Technology,Events,Starter,2,158,,False,1.0,3.0,0.0,0.0,0.0,40.3,0
+10869,2025-09-25,Technology,Organic,Pro,8,1592,,False,5.0,82.0,4.0,50.975,3.9000000000000004,54.7,0
+10870,2025-01-25,Healthcare,Organic,Starter,5,395,,False,8.0,71.0,2.0,38.75,4.050000000000001,58.35000000000001,0
+10871,2025-10-01,Professional Services,Referral,Business,30,14970,,False,5.0,310.0,2.0,40.55,3.5,68.5,0
+10872,2025-05-02,Retail,Referral,Starter,2,158,2026-03-20,True,3.0,14.0,4.0,54.875,3.75,47.15,158
+10873,2025-03-10,Retail,Referral,Starter,3,237,2025-06-22,True,1.0,10.0,1.0,29.9,2.9,48.5,237
+10874,2025-03-16,Healthcare,Partner,Pro,8,1592,,False,9.0,155.0,3.0,40.86666666666667,3.1999999999999997,60.5,0
+10875,2026-02-23,Retail,Partner,Pro,6,1194,,False,3.0,33.0,0.0,0.0,0.0,43.3,0
+10876,2025-10-30,Technology,Organic,Pro,8,1592,,False,4.0,54.0,2.0,26.9,3.4,53.4,0
+10877,2025-11-20,Retail,Referral,Pro,8,1592,,False,1.0,18.0,0.0,0.0,0.0,41.8,0
+10878,2026-03-24,Professional Services,Paid Search,Enterprise,67,87033,,False,2.0,254.0,3.0,62.63333333333333,4.333333333333333,70.66666666666667,0
+10879,2025-11-25,Healthcare,Referral,Pro,12,2388,,False,1.0,29.0,1.0,55.4,3.4,52.9,0
+10880,2026-01-14,Healthcare,Organic,Pro,7,1393,,False,5.0,78.0,1.0,26.1,4.3,62.3,0
+10881,2025-02-21,Technology,Referral,Pro,7,1393,,False,3.0,57.0,3.0,43.199999999999996,3.6333333333333333,52.86666666666667,0
+10882,2026-05-26,Healthcare,Referral,Starter,4,316,,False,3.0,33.0,0.0,0.0,0.0,43.3,0
+10883,2025-09-27,Technology,Organic,Pro,7,1393,,False,2.0,32.0,1.0,47.3,3.1,51.7,0
+10884,2025-04-04,Financial Services,Partner,Starter,4,316,2025-12-21,True,6.0,49.0,2.0,19.45,4.65,59.15,316
+10885,2026-05-03,Retail,Referral,Pro,8,1592,,False,2.0,37.0,0.0,0.0,0.0,43.7,0
+10886,2026-03-17,Professional Services,Paid Search,Starter,2,158,,False,2.0,9.0,0.0,0.0,0.0,40.9,0
+10887,2025-02-01,Retail,Paid Search,Enterprise,32,41568,,False,10.0,627.0,2.0,35.45,4.0,71.0,0
+10888,2025-04-26,Professional Services,Partner,Pro,13,2587,,False,7.0,173.0,3.0,63.9,3.9666666666666663,66.13333333333333,0
+10889,2025-01-10,Healthcare,Organic,Business,17,8483,,False,5.0,184.0,3.0,33.333333333333336,4.1000000000000005,67.9,0
+10890,2025-06-12,Manufacturing,Organic,Pro,14,2786,,False,7.0,211.0,0.0,0.0,0.0,60.0,0
+10891,2025-03-01,Healthcare,Referral,Starter,3,237,,False,10.0,60.0,1.0,33.3,4.3,60.5,0
+10892,2026-03-02,Retail,Referral,Business,20,9980,,False,7.0,280.0,0.0,0.0,0.0,60.0,0
+10893,2025-11-10,Financial Services,Referral,Pro,18,3582,,False,7.0,252.0,0.0,0.0,0.0,60.0,0
+10894,2026-08-12,Retail,Partner,Business,12,5988,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10895,2026-03-26,Healthcare,Organic,Pro,4,796,,False,2.0,23.0,1.0,74.2,4.5,57.8,0
+10896,2026-01-02,Financial Services,Organic,Pro,13,2587,,False,4.0,91.0,1.0,7.8,3.7,60.6,0
+10897,2025-11-02,Retail,Referral,Business,13,6487,,False,4.0,90.0,3.0,33.0,3.533333333333333,55.666666666666664,0
+10898,2025-02-02,Retail,Partner,Pro,8,1592,2025-06-14,True,4.0,73.0,5.0,31.0,3.62,50.4,1592
+10899,2025-02-12,Retail,Partner,Starter,2,158,,False,7.0,29.0,2.0,46.050000000000004,2.8499999999999996,48.15,0
+10900,2026-01-05,Financial Services,Partner,Pro,9,1791,2026-07-01,True,2.0,46.0,1.0,13.8,4.1,58.1,1791
+10901,2025-01-03,Healthcare,Paid Search,Pro,6,1194,,False,5.0,49.0,7.0,40.228571428571435,3.3428571428571425,44.614285714285714,0
+10902,2025-01-26,Retail,Partner,Enterprise,42,54558,,False,7.0,595.0,1.0,26.7,3.8,72.0,0
+10903,2025-05-12,Healthcare,Paid Search,Starter,4,316,,False,3.0,26.0,1.0,34.5,2.6,48.6,0
+10904,2026-06-15,Healthcare,Organic,Pro,6,1194,,False,2.0,24.0,1.0,42.8,4.1,55.9,0
+10905,2025-10-03,Retail,Paid Search,Business,14,6986,,False,3.0,83.0,0.0,0.0,0.0,48.3,0
+10906,2026-03-02,Manufacturing,Partner,Pro,7,1393,,False,0.0,0.0,1.0,26.7,4.3,54.5,0
+10907,2025-09-04,Professional Services,Referral,Pro,5,995,,False,5.0,58.0,2.0,40.2,3.4,53.8,0
+10908,2025-04-14,Manufacturing,Paid Search,Pro,7,1393,,False,8.0,117.0,5.0,23.339999999999996,3.5,54.2,0
+10909,2025-08-11,Professional Services,Referral,Starter,3,237,2025-11-28,True,3.0,16.0,0.0,0.0,0.0,41.6,237
+10910,2025-02-25,Financial Services,Paid Search,Business,16,7984,,False,6.0,198.0,2.0,65.3,3.55,68.55,0
+10911,2026-04-08,Professional Services,Organic,Starter,3,237,,False,2.0,11.0,1.0,34.5,1.2,40.1,0
+10912,2025-04-21,Retail,Paid Search,Starter,3,237,,False,9.0,39.0,3.0,32.300000000000004,3.966666666666667,52.733333333333334,0
+10913,2025-08-14,Retail,Partner,Pro,6,1194,,False,7.0,88.0,2.0,6.699999999999999,4.300000000000001,61.3,0
+10914,2026-08-12,Healthcare,Organic,Business,23,11477,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10915,2025-12-22,Technology,Referral,Business,30,14970,,False,4.0,233.0,2.0,13.8,4.15,71.75,0
+10916,2025-10-03,Manufacturing,Organic,Starter,3,237,,False,5.0,25.0,2.0,64.85,3.0999999999999996,49.0,0
+10917,2025-11-22,Manufacturing,Organic,Starter,4,316,,False,3.0,30.0,1.0,40.4,2.9,50.5,0
+10918,2026-04-16,Financial Services,Events,Enterprise,41,53259,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10919,2025-06-02,Financial Services,Referral,Starter,3,237,2025-12-11,True,2.0,18.0,0.0,0.0,0.0,41.8,237
+10920,2026-01-17,Healthcare,Referral,Starter,5,395,,False,5.0,61.0,1.0,72.9,4.2,60.1,0
+10921,2026-06-08,Professional Services,Organic,Starter,4,316,,False,2.0,12.0,0.0,0.0,0.0,41.2,0
+10922,2025-12-10,Healthcare,Events,Pro,4,796,,False,5.0,38.0,4.0,32.3,3.925,50.425,0
+10923,2025-09-25,Professional Services,Organic,Business,21,10479,,False,8.0,360.0,1.0,46.6,3.3,69.5,0
+10924,2025-03-29,Healthcare,Partner,Business,28,13972,,False,8.0,441.0,1.0,68.0,3.5,70.5,0
+10925,2025-05-29,Professional Services,Referral,Pro,7,1393,,False,11.0,155.0,9.0,35.82222222222222,3.711111111111111,57.05555555555556,0
+10926,2026-07-22,Healthcare,Organic,Starter,4,316,,False,2.0,12.0,0.0,0.0,0.0,41.2,0
+10927,2025-11-21,Healthcare,Paid Search,Starter,2,158,,False,10.0,35.0,1.0,28.0,3.5,54.0,0
+10928,2025-06-30,Professional Services,Organic,Pro,5,995,,False,3.0,28.0,1.0,67.8,3.3,52.3,0
+10929,2025-09-09,Financial Services,Paid Search,Starter,3,237,2026-07-31,True,7.0,40.0,0.0,0.0,0.0,44.0,237
+10930,2025-12-13,Retail,Organic,Starter,2,158,,False,6.0,23.0,1.0,129.7,2.8,49.3,0
+10931,2025-11-19,Professional Services,Partner,Starter,3,237,,False,4.0,20.0,1.0,26.6,4.1,55.5,0
+10932,2026-02-24,Financial Services,Partner,Starter,5,395,,False,3.0,35.0,1.0,20.4,3.4,53.5,0
+10933,2025-06-04,Manufacturing,Partner,Pro,4,796,,False,10.0,86.0,1.0,15.4,4.4,63.6,0
+10934,2026-01-25,Technology,Organic,Pro,5,995,2026-04-04,True,0.0,0.0,1.0,26.6,3.6,51.0,995
+10935,2025-09-23,Manufacturing,Paid Search,Starter,2,158,,False,7.0,26.0,2.0,17.05,3.55,51.35,0
+10936,2026-07-19,Manufacturing,Events,Pro,8,1592,,False,1.0,9.0,0.0,0.0,0.0,40.9,0
+10937,2025-04-05,Financial Services,Organic,Business,16,7984,,False,4.0,145.0,4.0,33.1,4.0,61.5,0
+10938,2025-03-31,Financial Services,Organic,Business,29,14471,,False,3.0,170.0,1.0,44.2,3.0,65.0,0
+10939,2025-10-04,Retail,Partner,Business,25,12475,2026-07-09,True,8.0,387.0,3.0,39.4,3.0,64.0,12475
+10940,2025-11-02,Technology,Organic,Pro,10,1990,,False,2.0,41.0,1.0,21.6,3.3,53.6,0
+10941,2026-02-19,Financial Services,Paid Search,Business,19,9481,,False,1.0,41.0,3.0,52.96666666666666,2.9333333333333336,47.766666666666666,0
+10942,2025-08-31,Healthcare,Partner,Starter,3,237,2026-08-20,True,8.0,56.0,1.0,36.9,3.3,55.1,237
+10943,2026-07-03,Professional Services,Organic,Starter,2,158,,False,1.0,4.0,0.0,0.0,0.0,40.4,0
+10944,2025-10-12,Healthcare,Paid Search,Starter,4,316,,False,7.0,59.0,1.0,5.1,4.8,62.9,0
+10945,2025-03-19,Healthcare,Paid Search,Pro,5,995,,False,6.0,49.0,4.0,33.35,4.075,52.275,0
+10946,2025-03-13,Healthcare,Referral,Starter,4,316,,False,8.0,73.0,3.0,29.266666666666666,3.6999999999999997,54.8,0
+10947,2026-08-08,Retail,Partner,Starter,5,395,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+10948,2025-03-22,Retail,Organic,Business,19,9481,,False,7.0,264.0,4.0,35.6,3.725,65.625,0
+10949,2026-07-23,Retail,Referral,Starter,3,237,,False,1.0,6.0,0.0,0.0,0.0,40.6,0
+10950,2025-06-16,Manufacturing,Partner,Starter,3,237,,False,8.0,49.0,1.0,31.7,3.8,56.9,0
+10951,2025-02-26,Manufacturing,Organic,Starter,1,79,,False,6.0,15.0,1.0,10.2,2.9,49.0,0
+10952,2025-07-02,Retail,Partner,Pro,9,1791,,False,3.0,55.0,3.0,45.199999999999996,3.8666666666666667,53.833333333333336,0
+10953,2026-01-04,Manufacturing,Organic,Starter,3,237,,False,4.0,10.0,3.0,11.4,4.033333333333333,50.166666666666664,0
+10954,2025-09-14,Financial Services,Referral,Starter,3,237,,False,9.0,61.0,0.0,0.0,0.0,46.1,0
+10955,2026-04-17,Retail,Organic,Starter,4,316,2026-07-10,True,5.0,33.0,0.0,0.0,0.0,43.3,316
+10956,2026-01-02,Technology,Paid Search,Business,18,8982,,False,3.0,107.0,1.0,34.0,3.3,60.2,0
+10957,2025-08-29,Financial Services,Partner,Business,12,5988,,False,4.0,99.0,2.0,77.4,3.9,60.4,0
+10958,2026-01-16,Financial Services,Partner,Pro,8,1592,,False,5.0,87.0,2.0,90.75,3.25,55.95,0
+10959,2026-08-06,Manufacturing,Events,Pro,8,1592,,False,1.0,18.0,0.0,0.0,0.0,41.8,0
+10960,2025-09-05,Healthcare,Paid Search,Business,19,9481,,False,8.0,286.0,5.0,40.4,3.5799999999999996,62.9,0
+10961,2025-04-03,Technology,Partner,Enterprise,48,62352,,False,5.0,472.0,6.0,28.733333333333334,4.016666666666667,63.083333333333336,0
+10962,2025-09-03,Financial Services,Paid Search,Pro,12,2388,,False,6.0,150.0,1.0,4.4,5.0,73.0,0
+10963,2026-05-20,Healthcare,Events,Business,12,5988,,False,1.0,21.0,2.0,27.450000000000003,3.75,51.85,0
+10964,2025-05-11,Retail,Paid Search,Business,19,9481,2026-07-09,True,5.0,181.0,0.0,0.0,0.0,58.099999999999994,9481
+10965,2026-07-24,Retail,Events,Business,28,13972,,False,1.0,47.0,0.0,0.0,0.0,44.7,0
+10966,2025-12-19,Healthcare,Organic,Pro,4,796,,False,4.0,26.0,2.0,38.35,2.95,48.35,0
+10967,2025-12-27,Financial Services,Referral,Starter,3,237,,False,3.0,14.0,1.0,51.6,2.3,45.9,0
+10968,2025-07-10,Healthcare,Partner,Starter,2,158,,False,9.0,29.0,1.0,25.6,3.8,54.9,0
+10969,2026-07-07,Retail,Organic,Pro,7,1393,,False,2.0,28.0,1.0,38.5,3.5,53.3,0
+10970,2025-01-22,Professional Services,Organic,Pro,6,1194,,False,9.0,101.0,1.0,33.9,4.0,63.1,0
+10971,2025-06-29,Financial Services,Events,Starter,3,237,,False,10.0,68.0,5.0,27.52,3.7399999999999998,50.49999999999999,0
+10972,2025-09-09,Manufacturing,Referral,Pro,15,2985,,False,7.0,229.0,2.0,37.35,3.95,70.75,0
+10973,2025-10-14,Financial Services,Organic,Pro,5,995,,False,7.0,70.0,4.0,29.275,3.425,51.125,0
+10974,2025-10-12,Healthcare,Referral,Business,12,5988,,False,6.0,137.0,2.0,29.450000000000003,3.45,61.95,0
+10975,2025-03-30,Technology,Referral,Starter,2,158,,False,7.0,37.0,3.0,20.766666666666666,3.766666666666667,51.53333333333334,0
+10976,2025-05-16,Manufacturing,Paid Search,Starter,5,395,,False,5.0,50.0,2.0,13.55,4.15,56.75,0
+10977,2025-02-27,Professional Services,Events,Business,15,7485,,False,8.0,234.0,2.0,30.8,3.4499999999999997,68.25,0
+10978,2025-12-10,Manufacturing,Events,Business,18,8982,,False,5.0,155.0,0.0,0.0,0.0,55.5,0
+10979,2025-07-30,Retail,Paid Search,Enterprise,39,50661,2026-01-04,True,3.0,256.0,2.0,23.049999999999997,4.05,71.25,50661
+10980,2025-12-06,Manufacturing,Paid Search,Business,13,6487,,False,3.0,70.0,3.0,41.699999999999996,3.8333333333333335,55.16666666666667,0
+10981,2025-12-20,Manufacturing,Referral,Business,17,8483,,False,7.0,212.0,1.0,24.1,4.5,75.5,0
+10982,2026-02-26,Healthcare,Partner,Starter,7,553,,False,3.0,31.0,1.0,27.4,3.8,55.1,0
+10983,2025-11-25,Manufacturing,Organic,Starter,5,395,,False,5.0,54.0,4.0,15.075,4.425,54.525,0
+10984,2026-01-24,Financial Services,Organic,Starter,2,158,,False,6.0,20.0,0.0,0.0,0.0,42.0,0
+10985,2025-12-19,Manufacturing,Events,Pro,10,1990,,False,1.0,18.0,2.0,27.549999999999997,4.45,55.05,0
+10986,2026-01-27,Professional Services,Partner,Business,13,6487,,False,6.0,150.0,0.0,0.0,0.0,55.0,0
+10987,2026-01-05,Technology,Referral,Starter,2,158,2026-06-09,True,4.0,25.0,1.0,49.5,3.1,51.0,158
+10988,2025-07-09,Financial Services,Paid Search,Pro,11,2189,,False,8.0,178.0,1.0,43.1,3.2,66.8,0
+10989,2025-05-28,Healthcare,Referral,Starter,5,395,,False,11.0,117.0,4.0,29.924999999999997,3.4,55.7,0
+10990,2026-04-18,Healthcare,Referral,Starter,4,316,,False,3.0,22.0,1.0,20.4,3.5,52.7,0
+10991,2025-07-25,Financial Services,Referral,Starter,3,237,,False,4.0,23.0,3.0,14.1,3.5,48.8,0
+10992,2025-11-26,Financial Services,Organic,Starter,3,237,,False,7.0,46.0,3.0,28.633333333333336,4.566666666666666,56.43333333333334,0
+10993,2025-04-29,Financial Services,Paid Search,Enterprise,59,76641,,False,8.0,888.0,4.0,35.45,4.2,68.0,0
+10994,2025-09-16,Manufacturing,Referral,Starter,3,237,,False,6.0,33.0,1.0,30.8,4.6,59.3,0
+10995,2025-11-14,Manufacturing,Paid Search,Business,16,7984,,False,7.0,243.0,2.0,56.5,3.85,70.25,0
+10996,2026-01-11,Technology,Organic,Pro,5,995,,False,1.0,11.0,1.0,39.3,3.5,51.6,0
+10997,2025-11-12,Financial Services,Events,Starter,3,237,,False,2.0,6.0,1.0,43.0,2.9,48.1,0
+10998,2025-08-05,Retail,Paid Search,Starter,4,316,,False,8.0,50.0,3.0,33.5,3.766666666666667,52.833333333333336,0
+10999,2026-08-01,Healthcare,Events,Business,12,5988,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+11000,2025-11-04,Financial Services,Organic,Starter,4,316,2026-02-26,True,3.0,38.0,1.0,35.7,2.6,49.8,316
+11001,2026-04-30,Manufacturing,Paid Search,Business,20,9980,,False,1.0,33.0,2.0,23.2,4.3,55.8,0
+11002,2026-03-19,Retail,Partner,Starter,4,316,,False,3.0,21.0,1.0,44.4,2.9,49.6,0
+11003,2025-12-01,Healthcare,Referral,Pro,11,2189,,False,7.0,167.0,0.0,0.0,0.0,56.7,0
+11004,2026-06-16,Technology,Organic,Business,14,6986,,False,1.0,22.0,0.0,0.0,0.0,42.2,0
+11005,2025-03-18,Manufacturing,Organic,Starter,2,158,,False,3.0,19.0,5.0,34.04,3.4799999999999995,44.3,0
+11006,2026-07-07,Technology,Organic,Starter,2,158,,False,3.0,17.0,0.0,0.0,0.0,41.7,0
+11007,2026-05-26,Retail,Referral,Enterprise,61,79239,,False,3.0,362.0,1.0,36.7,3.5,70.5,0
+11008,2025-10-30,Manufacturing,Referral,Starter,2,158,,False,6.0,26.0,2.0,22.65,3.1,49.1,0
+11009,2026-03-17,Manufacturing,Organic,Pro,6,1194,,False,3.0,37.0,0.0,0.0,0.0,43.7,0
+11010,2025-11-09,Retail,Paid Search,Pro,4,796,,False,5.0,38.0,2.0,41.7,3.85,54.05,0
+11011,2025-06-11,Retail,Organic,Starter,6,474,,False,11.0,138.0,4.0,37.825,3.35,57.55,0
+11012,2026-04-25,Technology,Referral,Business,24,11976,,False,2.0,72.0,2.0,20.85,4.699999999999999,61.7,0
+11013,2025-05-28,Manufacturing,Paid Search,Business,24,11976,,False,3.0,129.0,1.0,17.0,3.8,64.89999999999999,0
+11014,2025-07-08,Technology,Organic,Starter,4,316,,False,11.0,92.0,1.0,16.9,4.4,64.2,0
+11015,2025-11-08,Technology,Organic,Business,22,10978,,False,3.0,129.0,2.0,42.900000000000006,3.15,59.65,0
+11016,2026-05-18,Retail,Organic,Starter,3,237,2026-08-09,True,0.0,0.0,0.0,0.0,0.0,40.0,237
+11017,2025-08-19,Technology,Organic,Starter,3,237,,False,6.0,31.0,0.0,0.0,0.0,43.1,0
+11018,2025-10-24,Technology,Referral,Pro,7,1393,,False,6.0,87.0,2.0,17.6,2.85,53.95,0
+11019,2025-01-25,Financial Services,Organic,Enterprise,113,146787,,False,3.0,677.0,5.0,43.42,3.3200000000000003,61.6,0
+11020,2025-03-11,Healthcare,Organic,Starter,4,316,,False,8.0,60.0,1.0,61.2,4.2,60.0,0
+11021,2025-02-03,Professional Services,Events,Starter,3,237,2025-05-20,True,1.0,3.0,1.0,31.6,4.5,55.8,237
+11022,2025-02-13,Healthcare,Events,Pro,9,1791,,False,3.0,45.0,0.0,0.0,0.0,44.5,0
+11023,2026-06-06,Financial Services,Organic,Business,13,6487,,False,0.0,0.0,2.0,53.75,4.6,54.0,0
+11024,2026-05-21,Professional Services,Referral,Starter,5,395,,False,5.0,49.0,1.0,30.1,3.6,55.9,0
+11025,2026-05-09,Healthcare,Referral,Starter,2,158,,False,1.0,4.0,3.0,14.133333333333333,4.3999999999999995,51.4,0
+11026,2025-02-03,Financial Services,Partner,Business,21,10479,,False,3.0,103.0,5.0,43.739999999999995,3.5,52.8,0
+11027,2025-02-16,Healthcare,Partner,Starter,4,316,,False,11.0,97.0,4.0,28.4,3.075,52.075,0
+11028,2025-06-18,Technology,Organic,Starter,3,237,,False,11.0,79.0,1.0,18.5,4.3,62.4,0
+11029,2025-12-06,Professional Services,Organic,Starter,3,237,,False,5.0,47.0,1.0,36.0,3.3,54.2,0
+11030,2025-07-20,Professional Services,Referral,Starter,3,237,,False,8.0,54.0,0.0,0.0,0.0,45.4,0
+11031,2025-10-20,Retail,Partner,Pro,8,1592,,False,6.0,76.0,3.0,22.933333333333334,4.8,60.6,0
+11032,2025-04-14,Manufacturing,Events,Business,15,7485,2025-10-22,True,2.0,66.0,2.0,46.2,3.25,53.85,7485
+11033,2026-03-15,Healthcare,Organic,Pro,7,1393,,False,3.0,46.0,0.0,0.0,0.0,44.6,0
+11034,2025-07-08,Financial Services,Paid Search,Pro,13,2587,,False,6.0,154.0,0.0,0.0,0.0,55.400000000000006,0
+11035,2025-02-09,Financial Services,Organic,Enterprise,43,55857,2025-07-17,True,3.0,248.0,1.0,23.0,4.1,73.5,55857
+11036,2026-03-22,Manufacturing,Paid Search,Starter,2,158,,False,4.0,16.0,0.0,0.0,0.0,41.6,0
+11037,2026-06-26,Retail,Events,Starter,3,237,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+11038,2025-01-09,Professional Services,Referral,Business,26,12974,,False,8.0,357.0,3.0,20.3,3.8000000000000003,68.0,0
+11039,2025-09-20,Technology,Organic,Starter,4,316,,False,5.0,51.0,2.0,35.099999999999994,3.0,51.1,0
+11040,2026-05-12,Professional Services,Paid Search,Pro,10,1990,,False,1.0,16.0,0.0,0.0,0.0,41.6,0
+11041,2026-02-28,Financial Services,Referral,Business,16,7984,,False,6.0,182.0,2.0,11.55,4.65,72.45,0
+11042,2026-05-29,Retail,Partner,Starter,4,316,,False,2.0,19.0,0.0,0.0,0.0,41.9,0
+11043,2025-09-07,Retail,Referral,Pro,6,1194,,False,7.0,94.0,1.0,7.8,3.0,57.4,0
+11044,2025-08-12,Retail,Partner,Starter,3,237,,False,8.0,51.0,0.0,0.0,0.0,45.1,0
+11045,2026-03-02,Manufacturing,Organic,Starter,4,316,,False,3.0,18.0,0.0,0.0,0.0,41.8,0
+11046,2025-04-03,Manufacturing,Organic,Pro,11,2189,,False,5.0,128.0,0.0,0.0,0.0,52.8,0
+11047,2025-05-24,Technology,Referral,Starter,2,158,,False,9.0,41.0,1.0,14.0,2.7,50.6,0
+11048,2025-12-27,Technology,Organic,Business,13,6487,,False,7.0,150.0,4.0,31.125,3.85,61.25,0
+11049,2026-02-06,Professional Services,Referral,Business,19,9481,,False,3.0,128.0,2.0,30.95,3.6999999999999997,62.3,0
+11050,2025-03-13,Manufacturing,Paid Search,Business,33,16467,,False,11.0,745.0,0.0,0.0,0.0,60.0,0
+11051,2025-11-01,Retail,Organic,Starter,2,158,,False,6.0,21.0,2.0,53.2,4.3,54.6,0
+11052,2025-08-07,Manufacturing,Organic,Starter,3,237,,False,8.0,33.0,0.0,0.0,0.0,43.3,0
+11053,2025-10-29,Financial Services,Organic,Starter,2,158,,False,3.0,9.0,0.0,0.0,0.0,40.9,0
+11054,2026-07-30,Financial Services,Organic,Starter,2,158,,False,1.0,2.0,0.0,0.0,0.0,40.2,0
+11055,2025-02-15,Professional Services,Partner,Enterprise,40,51960,,False,9.0,699.0,4.0,44.575,3.275,63.375,0
+11056,2026-08-21,Retail,Events,Starter,3,237,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+11057,2025-09-27,Technology,Organic,Starter,2,158,,False,7.0,22.0,0.0,0.0,0.0,42.2,0
+11058,2026-04-09,Financial Services,Partner,Business,18,8982,,False,2.0,69.0,2.0,28.85,3.95,57.65,0
+11059,2025-09-12,Professional Services,Partner,Starter,2,158,,False,5.0,28.0,5.0,54.54,3.7,46.3,0
+11060,2025-07-06,Professional Services,Events,Starter,2,158,,False,9.0,32.0,0.0,0.0,0.0,43.2,0
+11061,2026-04-08,Technology,Referral,Starter,4,316,,False,1.0,13.0,1.0,38.4,1.9,43.8,0
+11062,2026-02-17,Healthcare,Referral,Pro,10,1990,,False,3.0,62.0,3.0,37.63333333333333,4.1000000000000005,55.7,0
+11063,2025-03-28,Manufacturing,Referral,Business,24,11976,,False,6.0,258.0,1.0,31.2,3.3,69.5,0
+11064,2026-02-28,Retail,Partner,Starter,2,158,,False,3.0,17.0,1.0,46.3,4.1,55.2,0
+11065,2026-03-28,Financial Services,Partner,Business,20,9980,,False,4.0,160.0,1.0,28.2,4.4,71.0,0
+11066,2025-08-21,Manufacturing,Referral,Business,23,11477,,False,8.0,381.0,0.0,0.0,0.0,60.0,0
+11067,2026-07-10,Financial Services,Organic,Business,13,6487,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+11068,2026-01-20,Financial Services,Partner,Starter,3,237,,False,4.0,23.0,0.0,0.0,0.0,42.3,0
+11069,2025-07-20,Retail,Partner,Starter,3,237,,False,10.0,53.0,5.0,42.42,3.8200000000000003,49.4,0
+11070,2025-01-07,Financial Services,Referral,Business,34,16966,,False,5.0,352.0,7.0,43.728571428571435,3.3428571428571425,59.714285714285715,0
+11071,2026-02-09,Financial Services,Paid Search,Starter,6,474,,False,2.0,28.0,0.0,0.0,0.0,42.8,0
+11072,2025-05-06,Healthcare,Referral,Pro,4,796,,False,6.0,46.0,2.0,27.7,3.5999999999999996,53.6,0
+11073,2026-03-30,Financial Services,Referral,Business,43,21457,,False,1.0,87.0,0.0,0.0,0.0,48.7,0
+11074,2025-11-12,Financial Services,Paid Search,Starter,2,158,,False,4.0,12.0,2.0,44.9,2.95,46.95,0
+11075,2025-10-08,Technology,Partner,Business,25,12475,2026-03-28,True,0.0,0.0,3.0,32.4,3.9,48.5,12475
+11076,2025-04-09,Manufacturing,Events,Business,25,12475,,False,4.0,187.0,1.0,29.5,3.1,67.2,0
+11077,2026-03-03,Manufacturing,Referral,Pro,6,1194,,False,2.0,23.0,0.0,0.0,0.0,42.3,0
+11078,2025-04-10,Professional Services,Referral,Pro,10,1990,,False,8.0,114.0,1.0,6.3,4.3,65.89999999999999,0
+11079,2025-09-08,Professional Services,Referral,Business,17,8483,,False,5.0,196.0,2.0,59.05,2.85,64.85,0
+11080,2026-05-17,Manufacturing,Organic,Pro,10,1990,,False,3.0,58.0,1.0,19.3,3.4,55.8,0
+11081,2026-07-07,Professional Services,Referral,Business,20,9980,,False,0.0,0.0,1.0,4.9,4.1,53.5,0
+11082,2026-08-17,Healthcare,Organic,Business,27,13473,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+11083,2026-07-29,Healthcare,Referral,Business,18,8982,,False,1.0,33.0,0.0,0.0,0.0,43.3,0
+11084,2025-11-30,Manufacturing,Organic,Starter,3,237,,False,3.0,12.0,1.0,34.4,2.7,47.7,0
+11085,2025-05-01,Technology,Referral,Starter,4,316,2025-07-19,True,5.0,37.0,3.0,41.0,3.6333333333333333,50.86666666666667,316
+11086,2026-05-19,Retail,Partner,Starter,4,316,,False,1.0,9.0,0.0,0.0,0.0,40.9,0
+11087,2026-04-26,Financial Services,Organic,Pro,10,1990,,False,1.0,21.0,0.0,0.0,0.0,42.1,0
+11088,2026-08-18,Manufacturing,Paid Search,Pro,6,1194,,False,1.0,9.0,1.0,45.7,3.5,51.4,0
+11089,2026-01-26,Professional Services,Events,Pro,6,1194,,False,2.0,30.0,3.0,33.13333333333333,4.166666666666667,52.833333333333336,0
+11090,2025-03-26,Professional Services,Paid Search,Starter,2,158,,False,8.0,28.0,0.0,0.0,0.0,42.8,0
+11091,2025-10-29,Professional Services,Organic,Business,14,6986,,False,5.0,130.0,3.0,25.2,3.8333333333333335,61.16666666666667,0
+11092,2025-09-26,Healthcare,Referral,Business,24,11976,,False,6.0,266.0,1.0,43.5,3.3,69.5,0
+11093,2026-05-21,Manufacturing,Paid Search,Starter,4,316,,False,5.0,34.0,2.0,31.599999999999998,3.3499999999999996,51.15,0
+11094,2025-08-24,Technology,Paid Search,Pro,8,1592,2025-12-19,True,2.0,28.0,1.0,35.9,4.6,58.8,1592
+11095,2025-07-17,Professional Services,Organic,Pro,13,2587,,False,10.0,253.0,3.0,25.766666666666666,3.6,67.0,0
+11096,2025-02-18,Professional Services,Referral,Pro,13,2587,,False,5.0,132.0,1.0,32.0,4.0,66.2,0
+11097,2026-05-17,Manufacturing,Paid Search,Starter,3,237,,False,2.0,16.0,0.0,0.0,0.0,41.6,0
+11098,2026-03-30,Retail,Organic,Business,14,6986,,False,2.0,51.0,1.0,9.3,3.2,54.1,0
+11099,2025-01-25,Professional Services,Paid Search,Enterprise,78,101322,,False,5.0,790.0,1.0,15.1,4.6,76.0,0
+11100,2025-09-18,Professional Services,Organic,Pro,8,1592,,False,8.0,142.0,4.0,32.55,4.2,62.2,0
+11101,2025-10-15,Financial Services,Referral,Business,19,9481,,False,8.0,338.0,2.0,26.75,4.05,71.25,0
+11102,2025-10-09,Retail,Partner,Enterprise,40,51960,,False,6.0,484.0,3.0,21.400000000000002,4.133333333333334,69.66666666666667,0
+11103,2026-07-06,Technology,Organic,Starter,2,158,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+11104,2025-04-01,Healthcare,Paid Search,Pro,5,995,,False,10.0,105.0,6.0,66.36666666666666,3.6166666666666667,51.583333333333336,0
+11105,2025-07-03,Retail,Referral,Pro,10,1990,,False,10.0,215.0,3.0,28.2,3.8333333333333335,68.16666666666667,0
+11106,2025-04-19,Professional Services,Referral,Enterprise,34,44166,,False,6.0,387.0,0.0,0.0,0.0,60.0,0
+11107,2025-05-27,Healthcare,Events,Starter,9,711,,False,7.0,121.0,4.0,33.725,3.65,57.35,0
+11108,2026-06-29,Healthcare,Referral,Starter,2,158,,False,0.0,0.0,1.0,34.0,3.7,51.5,0
+11109,2026-07-19,Technology,Organic,Business,12,5988,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+11110,2025-01-27,Technology,Events,Starter,4,316,,False,6.0,41.0,5.0,47.52,3.8599999999999994,48.4,0
+11111,2026-01-15,Technology,Partner,Business,31,15469,,False,6.0,384.0,1.0,55.7,3.4,70.0,0
+11112,2025-05-20,Healthcare,Paid Search,Starter,3,237,,False,6.0,33.0,2.0,78.5,4.2,55.3,0
+11113,2025-04-26,Financial Services,Organic,Enterprise,55,71445,,False,5.0,600.0,2.0,20.65,3.85,70.25,0
+11114,2025-06-25,Healthcare,Organic,Business,9,4491,,False,5.0,86.0,1.0,12.6,4.0,61.6,0
+11115,2025-04-27,Financial Services,Paid Search,Starter,2,158,,False,6.0,15.0,1.0,37.8,3.1,50.0,0
+11116,2025-10-22,Retail,Organic,Business,12,5988,,False,1.0,23.0,2.0,32.5,3.5999999999999996,51.3,0
+11117,2026-08-21,Financial Services,Organic,Starter,2,158,,False,1.0,1.0,0.0,0.0,0.0,40.1,0
+11118,2025-12-18,Healthcare,Partner,Pro,8,1592,,False,6.0,86.0,1.0,46.6,4.4,63.6,0
+11119,2026-03-10,Retail,Referral,Pro,4,796,,False,5.0,37.0,0.0,0.0,0.0,43.7,0
+11120,2025-10-23,Manufacturing,Organic,Business,11,5489,,False,3.0,58.0,1.0,8.3,2.9,53.3,0
+11121,2025-01-09,Manufacturing,Organic,Starter,2,158,,False,11.0,51.0,5.0,36.7,3.9,49.6,0
+11122,2025-02-20,Healthcare,Referral,Starter,2,158,,False,11.0,50.0,5.0,26.7,4.040000000000001,50.2,0
+11123,2025-06-11,Manufacturing,Paid Search,Pro,9,1791,,False,9.0,182.0,1.0,6.5,5.0,76.2,0
+11124,2025-05-27,Retail,Partner,Pro,9,1791,,False,3.0,56.0,4.0,36.275,3.475,49.975,0
+11125,2026-05-20,Technology,Organic,Pro,11,2189,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+11126,2026-05-22,Retail,Organic,Starter,4,316,,False,2.0,19.0,0.0,0.0,0.0,41.9,0
+11127,2026-05-28,Healthcare,Paid Search,Starter,4,316,,False,1.0,13.0,0.0,0.0,0.0,41.3,0
+11128,2026-01-18,Healthcare,Referral,Business,18,8982,,False,2.0,61.0,5.0,49.739999999999995,3.8600000000000003,50.400000000000006,0
+11129,2025-11-30,Retail,Referral,Starter,3,237,,False,3.0,19.0,2.0,59.95,3.4000000000000004,49.9,0
+11130,2026-01-25,Professional Services,Events,Starter,4,316,,False,1.0,12.0,0.0,0.0,0.0,41.2,0
+11131,2025-09-02,Retail,Paid Search,Enterprise,47,61053,2026-04-25,True,6.0,555.0,2.0,60.05,3.3499999999999996,67.75,61053
+11132,2026-02-07,Healthcare,Referral,Starter,3,237,2026-05-31,True,1.0,8.0,1.0,21.9,3.2,49.8,237
+11133,2026-04-22,Technology,Events,Business,16,7984,,False,1.0,27.0,0.0,0.0,0.0,42.7,0
+11134,2026-04-03,Professional Services,Organic,Starter,2,158,,False,1.0,2.0,2.0,43.7,3.25,47.45,0
+11135,2026-01-04,Professional Services,Events,Business,21,10479,,False,6.0,232.0,0.0,0.0,0.0,60.0,0
+11136,2025-02-04,Healthcare,Paid Search,Business,17,8483,,False,10.0,328.0,2.0,27.25,4.05,71.25,0
+11137,2026-03-11,Retail,Paid Search,Business,14,6986,,False,4.0,109.0,0.0,0.0,0.0,50.9,0
+11138,2025-08-08,Technology,Events,Starter,2,158,,False,5.0,24.0,0.0,0.0,0.0,42.4,0
+11139,2026-03-23,Professional Services,Paid Search,Pro,5,995,2026-08-16,True,3.0,33.0,0.0,0.0,0.0,43.3,995
+11140,2025-11-20,Technology,Referral,Business,25,12475,2026-07-19,True,3.0,144.0,0.0,0.0,0.0,54.400000000000006,12475
+11141,2026-06-13,Retail,Organic,Starter,3,237,,False,2.0,12.0,0.0,0.0,0.0,41.2,0
+11142,2025-07-23,Manufacturing,Paid Search,Starter,2,158,,False,9.0,33.0,4.0,21.225,3.675,48.675,0
+11143,2026-07-13,Financial Services,Paid Search,Starter,4,316,,False,2.0,16.0,0.0,0.0,0.0,41.6,0
+11144,2026-05-22,Manufacturing,Organic,Enterprise,37,48063,,False,3.0,228.0,1.0,57.7,2.5,65.5,0
+11145,2025-07-18,Healthcare,Paid Search,Pro,5,995,2026-08-17,True,5.0,64.0,1.0,28.3,4.9,63.9,995
+11146,2025-10-17,Manufacturing,Paid Search,Pro,11,2189,,False,3.0,57.0,2.0,38.5,3.9000000000000004,56.2,0
+11147,2025-11-15,Professional Services,Referral,Business,15,7485,,False,7.0,220.0,2.0,73.4,2.65,64.25,0
+11148,2026-04-07,Manufacturing,Organic,Pro,7,1393,,False,5.0,96.0,1.0,15.8,3.7,61.1,0
+11149,2026-02-18,Professional Services,Referral,Pro,8,1592,,False,5.0,77.0,1.0,28.9,3.3,57.2,0
+11150,2026-05-27,Retail,Organic,Pro,12,2388,,False,1.0,22.0,1.0,32.2,3.9,54.7,0
+11151,2025-08-10,Healthcare,Organic,Pro,8,1592,,False,4.0,72.0,1.0,19.9,3.6,58.2,0
+11152,2025-10-30,Professional Services,Referral,Starter,2,158,,False,3.0,14.0,0.0,0.0,0.0,41.4,0
+11153,2025-09-16,Professional Services,Organic,Business,22,10978,,False,10.0,404.0,3.0,38.53333333333334,3.6333333333333333,67.16666666666667,0
+11154,2026-06-30,Technology,Organic,Business,15,7485,,False,1.0,40.0,1.0,80.4,3.7,55.5,0
+11155,2025-07-02,Technology,Paid Search,Starter,6,474,,False,10.0,128.0,4.0,20.325,4.25,61.05,0
+11156,2025-12-19,Financial Services,Referral,Pro,8,1592,,False,2.0,34.0,0.0,0.0,0.0,43.4,0
+11157,2025-03-14,Manufacturing,Events,Starter,1,79,,False,3.0,8.0,3.0,62.699999999999996,3.633333333333333,47.96666666666666,0
+11158,2026-05-26,Professional Services,Events,Enterprise,51,66249,,False,4.0,407.0,1.0,8.9,4.7,76.5,0
+11159,2025-08-19,Retail,Paid Search,Business,36,17964,2025-12-27,True,2.0,152.0,0.0,0.0,0.0,55.2,17964
+11160,2025-07-24,Manufacturing,Events,Business,31,15469,,False,3.0,208.0,1.0,62.5,4.4,75.0,0
+11161,2025-12-16,Healthcare,Partner,Starter,6,474,,False,4.0,43.0,2.0,24.6,3.8499999999999996,54.55,0
+11162,2025-10-27,Technology,Referral,Starter,2,158,,False,5.0,27.0,3.0,44.9,3.8666666666666667,51.03333333333334,0
+11163,2026-05-24,Financial Services,Partner,Starter,4,316,,False,0.0,0.0,1.0,37.8,3.3,49.5,0
+11164,2025-11-15,Technology,Organic,Starter,2,158,,False,7.0,28.0,1.0,13.8,4.1,56.3,0
+11165,2025-11-07,Professional Services,Paid Search,Starter,3,237,,False,2.0,16.0,2.0,31.4,3.9000000000000004,52.1,0
+11166,2025-03-04,Professional Services,Referral,Starter,2,158,,False,9.0,38.0,0.0,0.0,0.0,43.8,0
+11167,2025-01-14,Financial Services,Organic,Enterprise,36,46764,,False,3.0,259.0,2.0,23.1,3.85,70.25,0
+11168,2025-08-28,Professional Services,Organic,Starter,2,158,,False,10.0,45.0,1.0,15.9,3.5,55.0,0
+11169,2026-08-22,Professional Services,Events,Starter,4,316,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+11170,2026-07-05,Professional Services,Referral,Business,24,11976,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+11171,2026-01-13,Retail,Organic,Pro,9,1791,,False,5.0,90.0,2.0,8.4,3.8,59.0,0
+11172,2026-01-14,Financial Services,Organic,Business,11,5489,2026-04-12,True,0.0,0.0,0.0,0.0,0.0,40.0,5489
+11173,2025-08-23,Retail,Referral,Pro,7,1393,,False,3.0,46.0,4.0,38.6,3.7,50.1,0
+11174,2025-04-17,Professional Services,Partner,Business,14,6986,,False,9.0,239.0,3.0,43.56666666666666,4.1000000000000005,69.5,0
+11175,2025-01-06,Financial Services,Partner,Pro,11,2189,2025-06-07,True,0.0,0.0,0.0,0.0,0.0,40.0,2189
+11176,2025-07-23,Financial Services,Referral,Pro,12,2388,,False,10.0,257.0,3.0,21.133333333333333,3.8000000000000003,68.0,0
+11177,2025-07-09,Technology,Organic,Pro,12,2388,,False,8.0,184.0,1.0,22.1,4.8,75.4,0
+11178,2025-04-25,Manufacturing,Organic,Pro,6,1194,2025-07-06,True,0.0,0.0,1.0,53.1,3.7,51.5,1194
+11179,2025-06-05,Manufacturing,Referral,Starter,1,79,,False,8.0,32.0,3.0,40.13333333333333,3.766666666666667,51.03333333333334,0
+11180,2025-01-15,Financial Services,Partner,Pro,4,796,,False,11.0,84.0,2.0,37.6,3.6,57.4,0
+11181,2025-12-31,Financial Services,Partner,Starter,5,395,2026-05-09,True,1.0,15.0,2.0,63.75,3.45,49.75,395
+11182,2026-07-11,Healthcare,Referral,Business,16,7984,,False,3.0,97.0,0.0,0.0,0.0,49.7,0
+11183,2026-02-19,Retail,Paid Search,Starter,2,158,,False,3.0,8.0,4.0,31.475,3.95,47.55,0
+11184,2025-09-26,Retail,Referral,Starter,5,395,,False,9.0,100.0,3.0,22.900000000000002,3.9,58.5,0
+11185,2025-09-10,Retail,Paid Search,Starter,5,395,,False,10.0,98.0,1.0,38.8,3.7,61.3,0
+11186,2025-07-04,Technology,Paid Search,Business,18,8982,,False,8.0,276.0,4.0,25.375,3.8000000000000003,66.0,0
+11187,2025-03-27,Manufacturing,Paid Search,Starter,3,237,,False,4.0,22.0,3.0,22.900000000000002,4.033333333333333,51.36666666666667,0
+11188,2025-12-26,Professional Services,Paid Search,Pro,8,1592,,False,3.0,39.0,3.0,22.7,3.6333333333333333,51.06666666666666,0
+11189,2025-12-06,Professional Services,Events,Business,19,9481,,False,4.0,147.0,3.0,36.53333333333333,3.466666666666667,61.03333333333334,0
+11190,2025-01-05,Manufacturing,Referral,Starter,5,395,,False,8.0,67.0,6.0,43.48333333333334,3.65,47.95,0
+11191,2025-09-07,Financial Services,Organic,Business,21,10479,,False,6.0,234.0,4.0,22.075000000000003,3.55,64.75,0
+11192,2025-06-16,Financial Services,Organic,Starter,4,316,,False,4.0,28.0,2.0,83.6,3.65,52.05,0
+11193,2025-04-13,Professional Services,Paid Search,Starter,5,395,,False,9.0,92.0,2.0,31.65,3.7,58.7,0
+11194,2026-02-26,Professional Services,Paid Search,Pro,5,995,,False,2.0,29.0,1.0,60.8,4.4,57.9,0
+11195,2025-11-12,Healthcare,Paid Search,Business,23,11477,,False,3.0,141.0,5.0,32.980000000000004,3.8600000000000003,58.4,0
+11196,2026-01-16,Retail,Paid Search,Starter,3,237,,False,5.0,24.0,1.0,19.1,3.4,52.4,0
+11197,2026-03-05,Technology,Organic,Pro,3,597,,False,5.0,27.0,0.0,0.0,0.0,42.7,0
+11198,2026-08-13,Manufacturing,Paid Search,Starter,1,79,,False,0.0,0.0,0.0,0.0,0.0,40.0,0
+11199,2026-04-27,Retail,Paid Search,Pro,6,1194,,False,2.0,31.0,0.0,0.0,0.0,43.1,0
+11200,2026-01-08,Healthcare,Referral,Pro,10,1990,,False,5.0,96.0,2.0,24.45,4.0,60.6,0
