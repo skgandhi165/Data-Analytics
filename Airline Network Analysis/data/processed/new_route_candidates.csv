@@ -1,0 +1,11 @@
+origin,dest,origin_city,dest_city,estimated_annual_connecting_demand
+LAX,PHX,Los Angeles,Phoenix,76014
+LAX,MIA,Los Angeles,Miami,74810
+MIA,BOS,Miami,Boston,73821
+MIA,SFO,Miami,San Francisco,73814
+LAX,SFO,Los Angeles,San Francisco,73814
+LAX,BOS,Los Angeles,Boston,72554
+MIA,PHX,Miami,Phoenix,72449
+JFK,PHX,New York JFK,Phoenix,70758
+DTW,FAR,Detroit,Fargo,70740
+DTW,GEG,Detroit,Spokane,70514

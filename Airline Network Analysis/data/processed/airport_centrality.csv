@@ -1,0 +1,26 @@
+code,name,tier,weighted_degree,betweenness_centrality,eigenvector_centrality,num_routes
+SEA,Seattle-Tacoma,hub,1908400,0.0906,0.3551,48
+ATL,Atlanta,hub,1984754,0.0399,0.3517,48
+DFW,Dallas/Fort Worth,hub,1908777,0.0797,0.3373,48
+ORD,Chicago O'Hare,hub,1905375,0.2107,0.3368,48
+DEN,Denver,hub,1873653,0.2391,0.3321,48
+JFK,New York JFK,spoke,651659,0.0036,0.177,18
+MIA,Miami,spoke,482070,0.0,0.1595,12
+SLC,Salt Lake City,spoke,479570,0.0,0.1549,12
+LAS,Las Vegas,spoke,469885,0.0036,0.1523,14
+PHX,Phoenix,spoke,482201,0.0,0.1507,12
+GEG,Spokane,spoke,418239,0.0,0.1489,10
+SFO,San Francisco,spoke,440664,0.0,0.1481,12
+FAR,Fargo,spoke,424294,0.0,0.148,10
+STL,St. Louis,spoke,399716,0.0,0.1477,10
+BIL,Billings,spoke,411124,0.0,0.1436,10
+DTW,Detroit,spoke,416048,0.0,0.1434,10
+TUL,Tulsa,spoke,386980,0.0,0.141,10
+MCI,Kansas City,spoke,382283,0.0036,0.1395,10
+LAX,Los Angeles,spoke,469935,0.0,0.1389,14
+BOI,Boise,spoke,460820,0.0,0.1352,12
+BOS,Boston,spoke,422343,0.0,0.1308,12
+IAH,Houston,spoke,403547,0.0,0.1307,10
+MSP,Minneapolis,spoke,365486,0.0,0.1261,10
+PDX,Portland,spoke,365927,0.0,0.1247,10
+OMA,Omaha,spoke,375936,0.003,0.1202,10

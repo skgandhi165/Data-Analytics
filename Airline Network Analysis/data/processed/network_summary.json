@@ -1,0 +1,21 @@
+{
+  "num_airports": 25,
+  "num_route_segments": 234,
+  "hub_codes": [
+    "ORD",
+    "DFW",
+    "DEN",
+    "ATL",
+    "SEA"
+  ],
+  "most_central_airport": "SEA",
+  "network_resilience_by_hub_removed_pct": {
+    "ORD": 96.0,
+    "DFW": 96.0,
+    "DEN": 96.0,
+    "ATL": 96.0,
+    "SEA": 96.0
+  },
+  "most_fragile_hub": "ORD",
+  "top_new_route_candidate": "LAX-PHX"
+}

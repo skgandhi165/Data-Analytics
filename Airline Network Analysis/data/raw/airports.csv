@@ -1,0 +1,26 @@
+code,name,lat,lon,tier
+ORD,Chicago O'Hare,41.98,-87.9,hub
+DFW,Dallas/Fort Worth,32.9,-97.04,hub
+DEN,Denver,39.86,-104.67,hub
+ATL,Atlanta,33.64,-84.43,hub
+SEA,Seattle-Tacoma,47.45,-122.31,hub
+LAX,Los Angeles,33.94,-118.41,spoke
+JFK,New York JFK,40.64,-73.78,spoke
+MIA,Miami,25.79,-80.29,spoke
+PHX,Phoenix,33.43,-112.01,spoke
+IAH,Houston,29.98,-95.34,spoke
+BOS,Boston,42.36,-71.01,spoke
+SFO,San Francisco,37.62,-122.38,spoke
+LAS,Las Vegas,36.08,-115.15,spoke
+MSP,Minneapolis,44.88,-93.22,spoke
+DTW,Detroit,42.21,-83.35,spoke
+PDX,Portland,45.59,-122.6,spoke
+SLC,Salt Lake City,40.79,-111.98,spoke
+STL,St. Louis,38.75,-90.37,spoke
+MCI,Kansas City,39.3,-94.71,spoke
+OMA,Omaha,41.3,-95.89,spoke
+BOI,Boise,43.56,-116.22,spoke
+TUL,Tulsa,36.2,-95.89,spoke
+GEG,Spokane,47.62,-117.53,spoke
+FAR,Fargo,46.92,-96.82,spoke
+BIL,Billings,45.81,-108.54,spoke
